@@ -12,13 +12,15 @@ class AddCar:
         year = input("Year: ")
         mileage = input("Mileage: ")
         gearbox = input("Manual or Automatic: ")
+        engine_size = input("Engine size: ")
+        fuel_type = input("Fuel type: ")
         price = input("Price: ")
 
 
         # Write the email and password to the CSV file
         with open(self.csv_file, 'a', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow([make, model, year,mileage, gearbox, price])
+            writer.writerow([make, model, year,mileage, gearbox, engine_size, fuel_type, price])
 
         print("Signed up successfully!")
 
