@@ -23,6 +23,9 @@ def user_input(user_input):
         log_in.log_in()
         print("You are logged in")
         while True:
+            print("Enter 3 to search for cars")
+            print("Enter 4 to sell a car")
+            print("Enter 5 to exit program")
             if user_input == "3":
                 print("Search for cars")
             elif user_input == "4":
