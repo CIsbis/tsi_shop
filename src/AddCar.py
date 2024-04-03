@@ -9,6 +9,7 @@ class AddCar:
         print("Enter car details")
         make = input("Make: ")
         model = input("Model: ")
+        colour = input("Colour: ")
         year = input("Year: ")
         mileage = input("Mileage: ")
         gearbox = input("Manual or Automatic: ")
@@ -20,7 +21,7 @@ class AddCar:
         # Write the email and password to the CSV file
         with open(self.csv_file, 'a', newline='') as file:
             writer = csv.writer(file)
-            writer.writerow([make, model, year,mileage, gearbox, engine_size, fuel_type, price])
+            writer.writerow([make, model, colour, year, mileage, gearbox, engine_size, fuel_type, price])
 
         print("Signed up successfully!")
 
