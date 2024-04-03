@@ -24,7 +24,7 @@ class AddCar:
             writer = csv.writer(file)
             writer.writerow([make, model, colour, year, mileage, gearbox, engine_size, fuel_type, price])
 
-        print("Signed up successfully!")
+        print("Car added successfully!")
 
 # Example usage:
 add_car_instance = AddCar("cars.csv")
