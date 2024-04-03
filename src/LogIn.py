@@ -1,4 +1,4 @@
-from src.CustomerLoad import CustomerLoad
+from CustomerLoad import CustomerLoad
 class LogIn:
     def get_password(self,email_address):
         customerLoad = CustomerLoad()

@@ -1,4 +1,4 @@
-from src.LogIn import LogIn
+from LogIn import LogIn
 
 class Main:
     def main():
