@@ -1,0 +1,1001 @@
+CAR MAKE,CAR MODEL,COLOUR,YEAR,MILEAGE,Gearbox ,ENGINE_SIZE,FUEL_TYPE,PRICE
+Ford,Taurus,Violet,2004,76519,Manual,4085,Petrol,48726
+Suzuki,Daewoo Lacetti,Aquamarine,2007,350716,Automatic,1167,Diesel,37750
+Buick,Century,Teal,1987,359344,Automatic,2839,Diesel,146200
+Chevrolet,Cruze,Yellow,2012,640210,Manual,1118,Diesel,61046
+Mazda,B-Series,Pink,2001,210204,Automatic,1804,Diesel,92628
+Morgan,Aero 8,Mauv,2006,788316,Manual,1057,Petrol,12547
+Dodge,Intrepid,Aquamarine,1995,280518,Automatic,4196,Petrol,108318
+Plymouth,Colt Vista,Turquoise,1993,847934,Manual,3251,Diesel,137483
+Lincoln,Zephyr,Aquamarine,2006,614871,Automatic,3451,Diesel,41646
+Chrysler,300,Pink,2009,926317,Manual,1573,Diesel,31051
+GMC,Yukon XL 1500,Mauv,2003,698892,Automatic,1883,Diesel,59760
+Lexus,SC,Pink,2000,742035,Manual,1917,Diesel,20140
+Mercedes-Benz,R-Class,Pink,2009,37011,Automatic,3909,Petrol,89590
+Dodge,Ram 1500 Club,Mauv,1997,729161,Manual,1316,Petrol,42907
+Mazda,Mazda3,Purple,2005,494783,Automatic,3719,Diesel,133024
+Toyota,Celica,Maroon,1998,2584,Manual,4301,Diesel,143594
+GMC,3500 Club Coupe,Purple,1994,639309,Automatic,2915,Diesel,148088
+Toyota,Celica,Teal,2005,484004,Automatic,2643,Diesel,76200
+Hyundai,Elantra,Teal,1997,314280,Manual,3750,Diesel,88400
+Ford,Taurus,Yellow,2012,47739,Manual,3707,Diesel,63657
+Jaguar,X-Type,Maroon,2005,135661,Automatic,3909,Petrol,40589
+Toyota,4Runner,Purple,2005,868685,Manual,3022,Diesel,53693
+Nissan,200SX,Crimson,1998,11652,Automatic,3010,Petrol,82836
+Mercedes-Benz,C-Class,Indigo,1995,587492,Automatic,4992,Diesel,91797
+Lexus,SC,Goldenrod,1998,522309,Manual,4548,Petrol,81272
+Suzuki,Swift,Green,2000,658315,Manual,2196,Petrol,38992
+Mazda,MPV,Aquamarine,1989,876675,Manual,4695,Diesel,23311
+Hyundai,Santa Fe,Crimson,2001,129723,Manual,2244,Petrol,74633
+Lamborghini,Diablo,Violet,1994,970630,Manual,4947,Diesel,7172
+Infiniti,FX,Khaki,2003,640225,Manual,1351,Diesel,57048
+Ford,Thunderbird,Violet,1992,590950,Automatic,4446,Petrol,66058
+Oldsmobile,Silhouette,Purple,1995,5908,Automatic,4927,Diesel,23254
+Toyota,Tacoma Xtra,Pink,2004,365384,Automatic,4193,Diesel,70889
+Pontiac,Parisienne,Orange,1984,759054,Manual,1298,Petrol,68709
+Chrysler,300,Maroon,1999,585192,Automatic,3414,Diesel,24747
+Toyota,Tundra,Pink,2012,703093,Automatic,4738,Diesel,146786
+Pontiac,Vibe,Crimson,2006,732398,Automatic,2238,Diesel,139237
+Volkswagen,GTI,Fuscia,2012,952281,Manual,3478,Diesel,125750
+GMC,Canyon,Goldenrod,2004,478762,Automatic,3896,Petrol,94914
+Ford,Aerostar,Orange,1997,220282,Manual,4009,Petrol,61935
+Chevrolet,Cobalt,Yellow,2007,584241,Automatic,2463,Petrol,11687
+Dodge,Spirit,Puce,1995,695507,Manual,1844,Diesel,126550
+Nissan,Frontier,Crimson,2005,759621,Automatic,4312,Diesel,38309
+Chevrolet,Tahoe,Puce,2010,557767,Manual,3334,Diesel,71498
+Dodge,Dakota,Green,2003,726511,Manual,4889,Petrol,36901
+Lexus,RX Hybrid,Orange,2010,636995,Automatic,1354,Petrol,89501
+Buick,Lucerne,Crimson,2011,35586,Automatic,2863,Petrol,73501
+Mazda,MX-5,Pink,1994,47538,Automatic,2250,Diesel,71381
+Chevrolet,Avalanche,Aquamarine,2009,804622,Automatic,2054,Diesel,72778
+Lotus,Elise,Mauv,2005,31331,Automatic,2929,Petrol,79104
+Mercury,Grand Marquis,Mauv,1994,721420,Automatic,2065,Diesel,21116
+Mercedes-Benz,S-Class,Maroon,2003,72670,Manual,1209,Diesel,113369
+Volvo,940,Puce,1995,174503,Automatic,2623,Petrol,86226
+Buick,Electra,Goldenrod,1985,322366,Manual,4737,Diesel,42580
+Infiniti,EX,Indigo,2008,869948,Manual,1151,Petrol,103835
+Chevrolet,Astro,Pink,2002,796838,Manual,1060,Petrol,49958
+Dodge,Grand Caravan,Purple,2000,328381,Manual,4459,Diesel,146017
+Lincoln,MKX,Goldenrod,2013,147170,Manual,2989,Diesel,19843
+Toyota,Sequoia,Crimson,2008,871113,Automatic,1742,Diesel,19561
+Lexus,IS-F,Fuscia,2010,360213,Automatic,2297,Diesel,80320
+Buick,LeSabre,Maroon,1993,537349,Manual,3197,Petrol,126116
+Jeep,Grand Cherokee,Blue,2007,923497,Manual,4201,Petrol,83965
+Suzuki,Esteem,Puce,1999,858923,Manual,3090,Petrol,119915
+Honda,Accord,Blue,1990,832690,Manual,4127,Diesel,76801
+Mercedes-Benz,S-Class,Teal,1994,253766,Automatic,3645,Diesel,147695
+Volvo,940,Indigo,1993,569388,Manual,2357,Diesel,96790
+Chevrolet,Tahoe,Mauv,2008,484702,Automatic,4918,Diesel,39169
+Ferrari,612 Scaglietti,Red,2007,457825,Automatic,3582,Petrol,33074
+Porsche,Boxster,Maroon,2003,666624,Automatic,4821,Diesel,96966
+Chevrolet,Aveo,Turquoise,2010,468552,Automatic,2471,Diesel,96624
+Chevrolet,Beretta,Goldenrod,1994,251104,Manual,1953,Diesel,85524
+Toyota,T100 Xtra,Fuscia,1995,436468,Automatic,1189,Petrol,40321
+Mazda,Tribute,Teal,2003,784478,Manual,3517,Diesel,25442
+Mitsubishi,L300,Yellow,1988,413320,Manual,1106,Petrol,139542
+Lincoln,Blackwood,Blue,2003,587326,Automatic,4623,Diesel,127089
+Ford,Windstar,Red,1998,818630,Manual,4158,Diesel,104912
+Bentley,Continental,Orange,2007,123294,Automatic,3461,Petrol,12148
+Pontiac,Firebird,Turquoise,1992,877662,Manual,2301,Petrol,43908
+Buick,Riviera,Indigo,1979,55791,Manual,4939,Petrol,127684
+Cadillac,STS,Turquoise,2010,781919,Automatic,3721,Petrol,93280
+Maybach,62,Mauv,2005,392872,Manual,4737,Diesel,57064
+Lotus,Elise,Blue,2006,532442,Automatic,4104,Diesel,8028
+Chevrolet,Lumina,Orange,1993,847725,Manual,3866,Petrol,88197
+Toyota,T100 Xtra,Purple,1996,645916,Automatic,1503,Diesel,32570
+BMW,Z4 M,Goldenrod,2007,710677,Automatic,1224,Petrol,23816
+Oldsmobile,Silhouette,Indigo,2002,707133,Automatic,4218,Diesel,82767
+Mazda,Miata MX-5,Orange,2004,740578,Manual,4254,Diesel,79570
+Buick,LeSabre,Turquoise,1997,367729,Automatic,1621,Diesel,99938
+Chevrolet,S10,Aquamarine,2003,418314,Automatic,1745,Petrol,89646
+Buick,Skyhawk,Green,1984,174865,Manual,4916,Petrol,39081
+Nissan,Sentra,Purple,2000,796222,Manual,1905,Diesel,28718
+Jeep,Grand Cherokee,Mauv,2004,90154,Automatic,2014,Petrol,64712
+Audi,TT,Purple,2008,71460,Manual,3400,Diesel,104619
+Ford,Crown Victoria,Aquamarine,2006,315988,Manual,4212,Diesel,97472
+Lincoln,Continental,Crimson,1993,999558,Automatic,3996,Petrol,32155
+Eagle,Talon,Red,1992,82110,Automatic,3820,Petrol,57515
+Volvo,S80,Orange,2012,123828,Manual,1365,Petrol,134135
+Volkswagen,Jetta,Yellow,2011,901584,Automatic,3111,Petrol,108728
+Mercury,Monterey,Mauv,2007,471140,Automatic,1982,Petrol,149567
+Chevrolet,Traverse,Puce,2009,923670,Manual,2957,Petrol,16789
+Pontiac,G6,Fuscia,2010,164733,Automatic,3855,Diesel,88377
+Chevrolet,Corvair,Goldenrod,1960,876973,Automatic,2531,Petrol,43786
+Subaru,Legacy,Pink,2006,505335,Manual,4876,Diesel,15396
+Honda,S2000,Fuscia,2006,836232,Manual,1351,Diesel,22597
+Saturn,Ion,Orange,2003,169739,Manual,3757,Diesel,97819
+Nissan,280ZX,Puce,1979,573940,Automatic,2242,Petrol,144118
+Volkswagen,Rabbit,Pink,2010,819249,Automatic,3968,Diesel,14080
+Mercury,Sable,Pink,1992,314968,Manual,2779,Petrol,95295
+Mazda,323,Pink,1992,591967,Manual,2081,Diesel,107004
+Honda,Odyssey,Violet,2011,724923,Manual,4494,Petrol,134479
+Mazda,Mazda6,Puce,2010,619830,Automatic,4538,Petrol,51998
+Mazda,B-Series Plus,Fuscia,2003,75485,Automatic,3577,Diesel,67502
+Dodge,Ram 1500 Club,Maroon,1995,986339,Manual,1399,Petrol,9152
+Volkswagen,Scirocco,Aquamarine,1987,695209,Manual,2595,Diesel,132753
+Mercedes-Benz,W126,Red,1983,651665,Automatic,2848,Petrol,94697
+Ford,Explorer,Green,1996,447206,Automatic,3048,Diesel,15233
+Honda,Passport,Purple,1995,26644,Manual,1020,Diesel,119524
+BMW,760,Khaki,2003,694649,Manual,1809,Petrol,98138
+Chevrolet,Blazer,Yellow,2003,354658,Automatic,3391,Petrol,98876
+Hyundai,Accent,Orange,1998,151854,Manual,3389,Petrol,29989
+Chevrolet,Corvette,Aquamarine,2001,727912,Manual,3663,Petrol,73564
+Audi,S4,Aquamarine,2006,485321,Manual,3199,Petrol,112082
+Toyota,Tacoma,Indigo,1996,389110,Manual,1424,Petrol,146762
+Oldsmobile,Silhouette,Turquoise,1993,445701,Automatic,4330,Diesel,11121
+Volkswagen,Passat,Purple,2000,901519,Automatic,2048,Petrol,18535
+Dodge,Stratus,Mauv,1996,387213,Manual,4305,Diesel,90992
+Buick,Century,Aquamarine,1996,59775,Automatic,4508,Diesel,78234
+Mercedes-Benz,SL-Class,Yellow,1993,84184,Automatic,4944,Diesel,101192
+Lamborghini,Murciélago,Aquamarine,2008,130370,Automatic,1364,Diesel,16709
+Porsche,928,Khaki,1987,317543,Manual,3286,Diesel,121241
+Volvo,S60,Teal,2013,248791,Automatic,2410,Diesel,59579
+BMW,7 Series,Fuscia,2008,920912,Manual,4724,Diesel,44422
+Mazda,B-Series,Red,1989,996680,Automatic,3789,Diesel,126911
+Acura,TL,Purple,2005,769965,Manual,1325,Petrol,91201
+Nissan,300ZX,Khaki,1995,231729,Manual,4509,Diesel,116081
+Dodge,D350 Club,Goldenrod,1993,391873,Automatic,4300,Petrol,120937
+Audi,A3,Mauv,2011,487806,Automatic,3537,Diesel,124737
+Subaru,Impreza,Indigo,1997,93291,Manual,2975,Diesel,111869
+Buick,Regal,Teal,1994,54386,Automatic,2782,Diesel,117942
+Buick,Coachbuilder,Mauv,1991,844067,Manual,1730,Petrol,67106
+Nissan,Xterra,Pink,2012,689479,Automatic,4964,Petrol,82761
+Chevrolet,Corvette,Pink,1970,303977,Manual,2687,Diesel,89824
+Chevrolet,Silverado 2500,Crimson,2011,701704,Manual,3893,Petrol,110922
+Mercury,Monterey,Blue,2007,849689,Manual,4179,Diesel,51376
+Mitsubishi,GTO,Maroon,1990,677203,Automatic,2002,Diesel,89931
+GMC,Sierra,Purple,2012,776888,Manual,1613,Diesel,106082
+Mercury,Cougar,Khaki,1995,76476,Automatic,4791,Diesel,9992
+Chrysler,LeBaron,Blue,1995,625876,Manual,3014,Diesel,56098
+Ford,Ranger,Teal,1990,389630,Automatic,4144,Petrol,62883
+Mercury,Milan,Orange,2008,520440,Automatic,1778,Diesel,125666
+Subaru,Impreza,Pink,1997,12214,Automatic,2690,Diesel,100631
+BMW,7 Series,Aquamarine,2004,99607,Manual,3114,Diesel,94030
+Volkswagen,New Beetle,Maroon,2000,243842,Manual,3671,Petrol,78602
+Mercedes-Benz,SLS-Class,Crimson,2011,946310,Automatic,2506,Diesel,116273
+Ford,Excursion,Goldenrod,2001,821432,Automatic,3367,Petrol,100719
+Nissan,Maxima,Indigo,1995,620374,Automatic,2798,Petrol,40633
+Chevrolet,Suburban 2500,Yellow,2004,219483,Automatic,3421,Diesel,60606
+Honda,Accord,Turquoise,1992,740797,Manual,3084,Diesel,122894
+Porsche,Cayman,Goldenrod,2007,191267,Automatic,4345,Diesel,145866
+Ford,Mustang,Puce,2003,899374,Manual,2283,Diesel,83134
+Subaru,Impreza,Yellow,2008,370607,Manual,3528,Petrol,10162
+Dodge,Shadow,Goldenrod,1993,697689,Manual,3399,Diesel,116984
+Cadillac,CTS,Red,2008,407023,Manual,3398,Diesel,146394
+Bentley,Continental GT,Turquoise,2008,609902,Manual,2904,Diesel,19819
+Audi,A4,Orange,2008,437249,Manual,2424,Diesel,140507
+Lexus,LS,Maroon,1989,301191,Automatic,1347,Diesel,74174
+Infiniti,FX,Puce,2008,300455,Manual,2301,Diesel,16114
+Mitsubishi,Expo,Maroon,1992,329826,Automatic,1746,Petrol,84970
+Honda,Civic GX,Green,2003,40023,Manual,1991,Petrol,76936
+Pontiac,Gemini,Violet,1988,738777,Manual,2471,Diesel,29498
+Mazda,CX-7,Aquamarine,2010,831402,Automatic,1240,Diesel,141140
+Mitsubishi,Lancer Evolution,Orange,2011,160723,Automatic,4241,Diesel,49190
+Mercury,Topaz,Green,1984,785810,Automatic,1253,Petrol,6683
+Chevrolet,1500,Aquamarine,1996,681346,Automatic,2006,Petrol,81552
+Hummer,H1,Aquamarine,1993,583761,Manual,4816,Diesel,28686
+Land Rover,Range Rover,Purple,1995,995900,Automatic,1102,Petrol,127743
+Mazda,RX-8,Puce,2011,511554,Automatic,3141,Petrol,48030
+Toyota,Highlander,Khaki,2009,895083,Manual,4465,Petrol,86478
+BMW,7 Series,Turquoise,2012,263240,Automatic,2434,Petrol,87255
+Eagle,Premier,Purple,1992,325908,Manual,1762,Petrol,69828
+Ford,Festiva,Green,1992,365755,Manual,1182,Diesel,62459
+Porsche,911,Indigo,1993,921600,Manual,3450,Diesel,124474
+Ford,Mustang,Indigo,1991,163400,Manual,1266,Diesel,67428
+Chevrolet,Suburban 1500,Maroon,1997,698202,Automatic,1906,Diesel,14213
+Honda,Civic,Blue,1988,539041,Automatic,4914,Petrol,56197
+Toyota,Supra,Blue,1996,946571,Manual,1096,Diesel,66984
+Mazda,RX-7,Orange,1992,313081,Automatic,2481,Petrol,102240
+Cadillac,SRX,Pink,2006,825278,Automatic,2273,Diesel,106110
+Toyota,Tundra,Khaki,2010,374638,Manual,3268,Petrol,90065
+Toyota,T100,Teal,1998,850124,Manual,1836,Diesel,113232
+Ford,Ranger,Indigo,1988,22411,Manual,3014,Diesel,106164
+Cadillac,Fleetwood,Purple,1996,803195,Manual,1059,Petrol,31356
+Volvo,XC70,Indigo,2009,182750,Manual,1105,Petrol,90979
+Toyota,Solara,Crimson,2008,711115,Automatic,1049,Diesel,137287
+Maserati,Spyder,Khaki,1990,509814,Automatic,1166,Petrol,48025
+Lexus,GS,Turquoise,1999,621189,Manual,4090,Petrol,12875
+Ford,E150,Fuscia,2005,765890,Manual,4369,Petrol,88377
+Land Rover,Discovery,Fuscia,2006,59920,Automatic,4768,Petrol,83251
+Toyota,Corolla,Blue,1999,249858,Manual,3735,Diesel,127880
+Volkswagen,Rabbit,Aquamarine,2006,618868,Automatic,1816,Petrol,89224
+Dodge,Ram Wagon B250,Teal,1993,106730,Automatic,3602,Petrol,119175
+Lincoln,MKZ,Mauv,2009,341973,Manual,1326,Diesel,82335
+Saturn,Sky,Blue,2009,113656,Automatic,4579,Diesel,16093
+Chrysler,Pacifica,Aquamarine,2004,982484,Manual,2703,Diesel,25496
+Chevrolet,Express 1500,Aquamarine,2003,95011,Manual,2220,Diesel,71334
+Volkswagen,GTI,Goldenrod,1993,833195,Automatic,2805,Petrol,23253
+GMC,Suburban 1500,Indigo,1996,875008,Automatic,4245,Petrol,63658
+Infiniti,I,Khaki,1997,531456,Automatic,4924,Petrol,99701
+Nissan,Pathfinder,Turquoise,2006,875360,Automatic,2260,Diesel,42783
+Chevrolet,1500,Maroon,1996,645773,Manual,2231,Diesel,95582
+Ford,F150,Maroon,2010,77178,Manual,1155,Petrol,76170
+Kia,Rio,Yellow,2009,296113,Manual,3499,Diesel,101471
+GMC,Sierra 1500,Khaki,2004,1136,Automatic,1211,Petrol,148643
+Saab,9-2X,Pink,2006,940075,Manual,1242,Diesel,118242
+Ford,Festiva,Mauv,1990,148147,Manual,4836,Diesel,98788
+Audi,Quattro,Blue,1993,407162,Manual,3274,Petrol,65769
+Honda,Element,Aquamarine,2010,367270,Manual,2939,Diesel,134989
+Ford,Escort,Teal,2000,857891,Manual,3168,Diesel,113609
+Mazda,Mazda3,Crimson,2010,455025,Manual,2355,Diesel,28621
+Nissan,Frontier,Violet,2002,501880,Manual,1714,Diesel,63959
+Mitsubishi,Galant,Khaki,1986,879197,Manual,1456,Diesel,138632
+Toyota,Camry,Puce,2000,971782,Manual,2276,Diesel,11932
+Suzuki,SJ,Crimson,1988,94175,Manual,2148,Petrol,15642
+Lexus,ES,Indigo,2008,114708,Manual,1221,Petrol,120541
+GMC,Rally Wagon 1500,Blue,1993,290473,Automatic,4809,Diesel,60468
+Volkswagen,Golf,Pink,1995,47092,Manual,1468,Petrol,89541
+Nissan,Altima,Violet,2006,772193,Automatic,4976,Diesel,39126
+Mitsubishi,Lancer,Crimson,2010,291545,Automatic,2354,Petrol,118687
+Maybach,57,Orange,2003,241635,Manual,1928,Diesel,24965
+Pontiac,6000,Maroon,1989,517098,Automatic,3813,Diesel,29567
+Pontiac,Montana,Mauv,2000,938226,Manual,2506,Petrol,32342
+Isuzu,Oasis,Turquoise,1997,607800,Automatic,1330,Petrol,90005
+BMW,3 Series,Yellow,1995,886909,Manual,3373,Diesel,52577
+Dodge,Ram 1500,Goldenrod,2000,874230,Automatic,3914,Diesel,140306
+GMC,Savana 2500,Orange,2007,804101,Automatic,4416,Petrol,142197
+Ford,Falcon,Goldenrod,1966,13704,Manual,3076,Petrol,56499
+Hyundai,Tucson,Pink,2011,835417,Manual,2642,Diesel,30643
+Kia,Optima,Goldenrod,2006,616364,Manual,4532,Diesel,58492
+Cadillac,CTS,Pink,2003,987081,Manual,1817,Petrol,45187
+Mitsubishi,Diamante,Turquoise,1999,633789,Automatic,4033,Diesel,92021
+Daewoo,Nubira,Purple,2002,652681,Manual,2901,Petrol,39193
+GMC,Savana 3500,Khaki,2010,771077,Automatic,2017,Diesel,106940
+Hummer,H2,Mauv,2005,875730,Manual,3097,Diesel,69997
+Mazda,Mazda6,Aquamarine,2010,369674,Automatic,2794,Petrol,32100
+Mercury,Grand Marquis,Yellow,1999,303012,Automatic,4104,Petrol,70409
+Chevrolet,Tracker,Green,2001,326881,Manual,3055,Petrol,105020
+Plymouth,Voyager,Fuscia,1998,542095,Automatic,3820,Diesel,47784
+Audi,5000CS,Khaki,1988,183684,Automatic,2119,Petrol,18943
+Maybach,57S,Fuscia,2005,755002,Automatic,1695,Petrol,27455
+Chevrolet,Camaro,Goldenrod,1970,750420,Manual,4988,Petrol,63702
+Isuzu,Trooper,Red,1994,174488,Manual,4418,Petrol,115190
+Pontiac,Bonneville,Fuscia,1965,556260,Manual,4719,Petrol,114544
+Jaguar,S-Type,Blue,2006,34586,Manual,1209,Diesel,94636
+Saab,9000,Teal,1989,220031,Automatic,1306,Petrol,60300
+Chevrolet,Malibu,Puce,2003,679901,Manual,3523,Petrol,148977
+Pontiac,Montana SV6,Khaki,2005,143433,Automatic,4349,Diesel,95908
+Buick,LaCrosse,Teal,2007,68826,Automatic,4865,Diesel,75579
+Dodge,Charger,Turquoise,1970,411314,Automatic,3143,Petrol,69519
+Nissan,Pathfinder,Yellow,2006,946179,Automatic,3781,Diesel,119545
+Land Rover,Range Rover,Purple,1986,761634,Manual,2303,Petrol,145401
+Buick,Regal,Pink,2011,931055,Manual,4414,Petrol,75269
+Honda,Civic,Green,2007,454757,Automatic,4296,Petrol,127352
+Mazda,RX-8,Red,2006,19913,Manual,2380,Petrol,105670
+Hyundai,Tiburon,Mauv,1999,765625,Manual,1286,Petrol,47731
+Chevrolet,G-Series 1500,Teal,1996,347867,Manual,4997,Diesel,14031
+Chrysler,Town & Country,Yellow,2009,936136,Manual,2737,Petrol,98462
+Lamborghini,Murciélago,Purple,2002,702625,Manual,3836,Petrol,77915
+Ford,Econoline E150,Crimson,2002,511940,Automatic,4414,Diesel,77993
+Chevrolet,Silverado 1500,Khaki,2000,640881,Automatic,1697,Petrol,70471
+Toyota,Camry Solara,Turquoise,2008,310613,Manual,4182,Petrol,69092
+Dodge,Grand Caravan,Aquamarine,2005,939909,Manual,1357,Petrol,37949
+Chevrolet,Corvette,Puce,1987,582364,Automatic,3303,Diesel,60092
+Lexus,IS,Purple,2010,362103,Automatic,2781,Diesel,92899
+Pontiac,Firebird,Purple,2002,282263,Automatic,2661,Petrol,54390
+Kia,Amanti,Maroon,2007,17410,Automatic,4099,Diesel,55789
+GMC,Terrain,Goldenrod,2010,762633,Manual,2821,Petrol,61923
+GMC,Sierra,Fuscia,2012,462293,Manual,2091,Diesel,129102
+Pontiac,Torrent,Red,2006,299196,Automatic,4115,Diesel,109378
+Kia,Sportage,Mauv,2012,916402,Automatic,3859,Petrol,97941
+Austin,Mini Cooper,Pink,1964,749984,Automatic,4998,Petrol,56644
+Volvo,XC90,Purple,2011,668154,Manual,4437,Petrol,80272
+Oldsmobile,88,Red,1993,237587,Manual,4279,Petrol,128067
+Suzuki,Sidekick,Aquamarine,1990,378326,Automatic,1843,Diesel,61105
+Mitsubishi,Outlander,Indigo,2005,127355,Manual,3542,Diesel,51346
+Ford,Taurus,Crimson,1992,910123,Automatic,4962,Diesel,62496
+Chevrolet,Silverado 2500,Maroon,2001,18821,Automatic,1999,Diesel,16685
+Mitsubishi,Pajero,Green,1995,382927,Automatic,1545,Diesel,131588
+Nissan,Pathfinder,Khaki,2005,408916,Automatic,1841,Diesel,77604
+Mitsubishi,Mirage,Indigo,1994,767203,Automatic,4076,Diesel,126215
+Toyota,Avalon,Aquamarine,1997,511192,Automatic,2865,Petrol,117538
+Mercedes-Benz,CLK-Class,Teal,2007,517170,Automatic,4391,Diesel,126491
+Cadillac,CTS-V,Fuscia,2011,281565,Automatic,2165,Diesel,135838
+Ford,Tempo,Khaki,1994,519547,Manual,1968,Diesel,62405
+Infiniti,FX,Yellow,2012,424436,Manual,2945,Petrol,70221
+Chrysler,PT Cruiser,Goldenrod,2002,825588,Manual,3765,Diesel,122503
+Mazda,Mazda5,Aquamarine,2006,90902,Manual,1871,Petrol,146466
+Lincoln,MKX,Blue,2011,944685,Manual,1924,Petrol,70273
+Nissan,Altima,Fuscia,1999,754239,Automatic,1968,Petrol,21438
+Mercury,Mountaineer,Violet,1997,795854,Automatic,4697,Petrol,97941
+Nissan,350Z,Aquamarine,2008,553512,Manual,3351,Diesel,16310
+Pontiac,Grand Prix,Aquamarine,1967,652182,Automatic,4076,Petrol,146065
+Hummer,H2,Red,2005,761869,Manual,1898,Petrol,25075
+Bentley,Continental Flying Spur,Fuscia,2011,80763,Manual,1982,Diesel,8331
+Pontiac,Firebird,Puce,1988,50119,Manual,1222,Petrol,48313
+Nissan,Xterra,Maroon,2002,375076,Manual,2113,Petrol,33354
+Dodge,Caravan,Puce,1996,345054,Manual,2169,Diesel,40012
+Lexus,HS,Purple,2010,597607,Automatic,1877,Diesel,85059
+Mazda,Millenia,Orange,2002,234553,Manual,1930,Diesel,47620
+Audi,A8,Violet,2008,113175,Automatic,4165,Petrol,122916
+Toyota,Tundra,Aquamarine,2012,153455,Manual,4102,Petrol,143541
+Subaru,Legacy,Puce,1989,691251,Automatic,4603,Diesel,135628
+Toyota,Corolla,Mauv,2010,39222,Manual,4967,Diesel,147119
+BMW,M,Turquoise,2000,657018,Manual,4364,Diesel,95037
+Kia,Sorento,Yellow,2007,294595,Automatic,2856,Diesel,17973
+Buick,Regal,Pink,1988,357271,Automatic,3380,Diesel,143617
+Ford,F250,Goldenrod,1994,760393,Manual,2177,Diesel,17974
+Nissan,370Z,Blue,2009,722257,Automatic,1626,Diesel,97966
+Oldsmobile,Aurora,Mauv,1999,884434,Manual,2804,Petrol,35694
+Mitsubishi,Challenger,Blue,2001,992217,Automatic,1823,Diesel,60348
+Cadillac,DeVille,Pink,1995,302124,Manual,4232,Petrol,122626
+Volvo,240,Khaki,1993,759505,Automatic,2674,Diesel,87077
+Suzuki,SJ,Turquoise,1989,139665,Automatic,4923,Diesel,116095
+Porsche,Boxster,Red,1999,127408,Automatic,3807,Diesel,20315
+Lexus,LS,Blue,1996,344047,Automatic,4643,Diesel,136159
+Chrysler,PT Cruiser,Turquoise,2009,365376,Automatic,3776,Diesel,76158
+Chevrolet,Silverado 2500,Orange,2010,778917,Automatic,1371,Petrol,84212
+Lexus,ES,Blue,1993,127,Automatic,2579,Petrol,141108
+BMW,525,Yellow,2003,414793,Automatic,3633,Petrol,108745
+Mercedes-Benz,GLK-Class,Indigo,2012,819643,Manual,3516,Petrol,27382
+Toyota,Solara,Pink,2004,729737,Automatic,4666,Diesel,6670
+Geo,Prizm,Orange,1993,642459,Manual,1617,Diesel,60386
+Cadillac,Escalade EXT,Fuscia,2006,317195,Automatic,2240,Diesel,67018
+Ford,Ranger,Turquoise,1999,396213,Automatic,1827,Diesel,31251
+Buick,Skylark,Crimson,1996,181591,Automatic,3967,Diesel,142092
+Buick,Electra,Teal,1984,699647,Manual,2416,Diesel,38289
+Audi,A5,Violet,2012,568806,Manual,2466,Petrol,129508
+Pontiac,Firefly,Puce,1989,553864,Manual,3994,Petrol,16744
+Jaguar,XJ Series,Indigo,1996,640063,Automatic,3006,Petrol,16514
+Porsche,911,Teal,1985,782663,Automatic,2920,Diesel,11348
+Mercedes-Benz,C-Class,Khaki,2000,276507,Manual,2397,Petrol,9296
+Ford,Thunderbird,Khaki,1989,196886,Automatic,4763,Petrol,13739
+Maybach,62,Pink,2010,472469,Automatic,1321,Petrol,64079
+Chevrolet,Suburban 2500,Green,1993,999901,Automatic,1324,Diesel,120372
+Mercedes-Benz,CL-Class,Fuscia,2000,29833,Manual,4076,Diesel,59936
+Eagle,Talon,Indigo,1990,865389,Manual,4437,Petrol,81889
+GMC,Yukon XL 2500,Green,2013,88351,Automatic,4142,Diesel,89450
+Suzuki,Sidekick,Pink,1995,420621,Manual,2593,Diesel,85719
+Nissan,Versa,Red,2012,702498,Manual,4939,Diesel,90207
+Chevrolet,Impala,Puce,1995,563878,Manual,3394,Diesel,50460
+Ford,E-Series,Turquoise,2004,807566,Manual,1468,Diesel,15263
+Maserati,GranTurismo,Mauv,2008,38650,Manual,2048,Petrol,93663
+Chevrolet,TrailBlazer,Pink,2008,677571,Manual,1830,Petrol,65901
+Acura,TL,Fuscia,2005,549930,Manual,3485,Petrol,74919
+Dodge,Ram Van 2500,Puce,1995,494354,Manual,4561,Petrol,88200
+Chrysler,Voyager,Maroon,2001,309213,Manual,1705,Diesel,54460
+Toyota,Highlander,Blue,2003,62691,Manual,2364,Diesel,135261
+Mazda,323,Orange,1993,106613,Manual,3141,Diesel,122357
+Subaru,Brat,Red,1984,824836,Automatic,4206,Diesel,51376
+Dodge,Stealth,Indigo,1992,977686,Manual,4447,Petrol,112284
+Toyota,Land Cruiser,Red,1992,821885,Manual,1175,Petrol,140441
+Mercedes-Benz,C-Class,Aquamarine,2004,771726,Automatic,3297,Diesel,148810
+Ford,F-Series,Puce,1992,820187,Automatic,4541,Petrol,117348
+Ford,F150,Puce,2002,794792,Automatic,1822,Diesel,91559
+Ford,E250,Fuscia,1984,700598,Automatic,2602,Diesel,89633
+Ford,Explorer,Goldenrod,2007,32320,Automatic,1843,Petrol,22753
+Buick,Century,Goldenrod,1986,89713,Manual,2897,Petrol,14738
+Dodge,Dakota Club,Goldenrod,1996,588694,Automatic,3217,Petrol,6368
+Saab,900,Red,1995,344395,Manual,4919,Diesel,116855
+Pontiac,1000,Turquoise,1984,889701,Automatic,2081,Petrol,140939
+Volkswagen,Golf,Khaki,2005,513781,Manual,3025,Petrol,39463
+Lexus,SC,Puce,2008,575927,Manual,4789,Diesel,30469
+Land Rover,Discovery Series II,Crimson,2000,647639,Manual,4551,Diesel,18542
+Daihatsu,Charade,Turquoise,1992,609807,Manual,2187,Diesel,10867
+Mitsubishi,3000GT,Indigo,1993,723906,Automatic,1253,Petrol,34773
+Suzuki,X-90,Puce,1997,268039,Manual,1772,Diesel,69793
+GMC,Savana 1500,Crimson,1998,66449,Automatic,2729,Petrol,37047
+Lexus,GS,Crimson,1995,423538,Manual,3071,Petrol,120453
+Land Rover,Discovery,Puce,2003,965386,Manual,1129,Diesel,46193
+Nissan,Quest,Green,2012,454539,Automatic,2299,Petrol,132301
+Pontiac,6000,Fuscia,1991,972484,Manual,3672,Petrol,49439
+Mercedes-Benz,G-Class,Goldenrod,2005,419651,Automatic,3140,Diesel,11703
+Acura,Integra,Khaki,1993,649987,Automatic,3605,Diesel,67137
+Nissan,Frontier,Crimson,2002,383994,Automatic,3910,Petrol,115309
+Ford,Escort,Puce,1997,163419,Manual,2030,Petrol,51887
+Mercury,Mountaineer,Pink,2006,80104,Automatic,4633,Diesel,148450
+GMC,Savana 1500,Khaki,1999,512784,Automatic,1396,Petrol,127309
+Ford,Mustang,Turquoise,2011,570749,Manual,4342,Petrol,136944
+Lincoln,Mark VIII,Maroon,1997,75817,Automatic,2947,Diesel,25754
+Volkswagen,Touareg,Turquoise,2008,408908,Automatic,2298,Diesel,128542
+Dodge,Grand Caravan,Blue,1998,338582,Manual,1349,Diesel,103056
+Ford,E250,Aquamarine,2008,812837,Automatic,4958,Diesel,7748
+Ford,Fairlane,Blue,1967,651690,Automatic,4441,Petrol,39214
+Kia,Rio,Red,2008,202215,Automatic,4007,Petrol,54753
+Cadillac,Eldorado,Mauv,1997,587865,Manual,1086,Petrol,19848
+Chevrolet,Tracker,Purple,2002,222453,Manual,2678,Petrol,7140
+Mitsubishi,Mirage,Green,1991,633886,Automatic,4475,Diesel,51422
+Cadillac,Eldorado,Goldenrod,2001,928576,Automatic,2395,Petrol,126174
+Chevrolet,Blazer,Orange,2005,968355,Manual,1954,Diesel,20737
+Saab,900,Fuscia,1985,22375,Manual,4228,Petrol,130297
+GMC,Vandura G3500,Orange,1996,597139,Automatic,2652,Diesel,29185
+Mitsubishi,Galant,Indigo,2009,607037,Automatic,1489,Petrol,115000
+Ford,Expedition EL,Purple,2009,338657,Automatic,3003,Diesel,104465
+Acura,RDX,Turquoise,2009,944721,Automatic,4047,Petrol,137360
+Kia,Sephia,Mauv,1997,472395,Manual,1227,Petrol,70517
+Lincoln,Continental,Pink,1990,960957,Manual,4694,Petrol,52175
+Ferrari,458 Italia,Yellow,2010,930233,Automatic,3608,Diesel,44366
+Nissan,Pathfinder,Orange,2000,106199,Manual,3088,Diesel,136613
+Mitsubishi,Chariot,Pink,1990,869907,Manual,3412,Petrol,58232
+Buick,LeSabre,Red,1988,164831,Manual,3114,Petrol,77097
+GMC,1500 Club Coupe,Blue,1997,530168,Automatic,3115,Petrol,28214
+Dodge,Stratus,Turquoise,2003,978339,Manual,2220,Diesel,11987
+Mazda,Millenia,Puce,2002,967645,Automatic,2911,Diesel,107970
+Lexus,LS,Green,2003,334203,Manual,3028,Petrol,77350
+Lincoln,Continental Mark VII,Indigo,1991,155777,Automatic,4904,Diesel,111474
+Ford,Explorer,Blue,1991,735966,Automatic,4919,Diesel,41358
+Porsche,928,Maroon,1988,735026,Automatic,3134,Diesel,133333
+GMC,Rally Wagon 3500,Turquoise,1992,894836,Automatic,2240,Petrol,85085
+Dodge,Charger,Mauv,1999,550485,Manual,2267,Petrol,136905
+Porsche,911,Puce,1988,679788,Automatic,1427,Petrol,14228
+Audi,TT,Mauv,2012,1007,Automatic,4886,Diesel,133720
+Nissan,Maxima,Yellow,2007,177370,Manual,3968,Petrol,134544
+Dodge,Ram 1500 Club,Maroon,1998,937111,Manual,1570,Diesel,34125
+Hyundai,Accent,Khaki,2010,810895,Automatic,2232,Diesel,89174
+Dodge,Avenger,Goldenrod,2011,315581,Manual,4660,Diesel,90468
+Lexus,IS,Goldenrod,2008,257883,Manual,3631,Petrol,79584
+Suzuki,Swift,Crimson,1989,124609,Automatic,2743,Diesel,54075
+Isuzu,Amigo,Red,1992,326726,Automatic,2782,Diesel,44413
+Suzuki,Daewoo Magnus,Mauv,2004,937153,Manual,4946,Diesel,102726
+Ford,E350,Khaki,2003,738943,Manual,2889,Diesel,74578
+Suzuki,SJ 410,Green,1984,860729,Automatic,1689,Diesel,13901
+BMW,550,Mauv,2006,354479,Manual,2471,Diesel,17906
+Maybach,57,Mauv,2008,919051,Manual,1044,Petrol,107048
+Suzuki,Aerio,Turquoise,2005,79299,Manual,3063,Diesel,143992
+Volkswagen,Touareg,Aquamarine,2012,313499,Manual,2932,Petrol,148134
+Bentley,Continental,Red,2007,484795,Manual,3135,Petrol,147701
+Buick,Roadmaster,Mauv,1992,918113,Automatic,2446,Diesel,90931
+Citroën,CX,Goldenrod,1989,982848,Manual,3470,Diesel,144204
+Dodge,Charger,Fuscia,2006,857575,Manual,2129,Diesel,33669
+Suzuki,Reno,Blue,2006,84189,Automatic,2176,Petrol,19690
+Mercedes-Benz,SLS-Class,Khaki,2011,694537,Automatic,3173,Diesel,91613
+Cadillac,CTS-V,Maroon,2012,49296,Automatic,4434,Diesel,45870
+Mitsubishi,Montero Sport,Mauv,2000,942228,Automatic,2804,Diesel,148071
+Porsche,944,Aquamarine,1984,130974,Automatic,3518,Diesel,93150
+Dodge,Dakota Club,Puce,2005,316374,Automatic,4199,Petrol,56917
+Chrysler,Aspen,Green,2008,288998,Manual,1964,Petrol,82535
+Buick,LaCrosse,Puce,2009,789748,Manual,1539,Petrol,63265
+Mercedes-Benz,SLR McLaren,Maroon,2005,46474,Automatic,1484,Diesel,142596
+Toyota,MR2,Green,1992,424463,Automatic,1727,Diesel,46801
+Porsche,944,Khaki,1987,67594,Automatic,2254,Diesel,98860
+Pontiac,G8,Purple,2008,765190,Manual,4980,Diesel,64950
+Mercedes-Benz,S-Class,Purple,1988,479570,Manual,2388,Diesel,109694
+Mitsubishi,Pajero,Goldenrod,2005,780882,Manual,1820,Petrol,138509
+Mercedes-Benz,SL-Class,Maroon,2006,520432,Manual,2231,Petrol,27802
+Nissan,Xterra,Crimson,2000,165958,Automatic,2739,Diesel,19556
+Nissan,Altima,Indigo,1994,29586,Automatic,1600,Petrol,62252
+Buick,Regal,Yellow,2001,944052,Manual,1365,Diesel,24771
+Nissan,240SX,Yellow,1995,171939,Manual,4150,Petrol,112035
+Lexus,ES,Mauv,2011,789575,Automatic,3059,Diesel,40214
+Mitsubishi,Diamante,Turquoise,1992,981408,Automatic,2173,Diesel,26508
+Buick,LeSabre,Maroon,2000,652235,Manual,1965,Diesel,53489
+Mitsubishi,Montero,Aquamarine,2004,225606,Automatic,4225,Petrol,127442
+Honda,Civic,Pink,1989,486500,Manual,1019,Petrol,89160
+Ford,Laser,Khaki,1988,957352,Automatic,2319,Diesel,121757
+Buick,Century,Aquamarine,1989,515775,Manual,1060,Diesel,85530
+Geo,Prizm,Indigo,1993,89174,Automatic,4559,Petrol,95729
+Volvo,C30,Crimson,2013,678169,Manual,3211,Petrol,113018
+Mazda,Millenia,Pink,2001,452717,Automatic,3546,Petrol,17125
+Eagle,Premier,Khaki,1992,521838,Manual,2746,Petrol,115309
+Chevrolet,Sportvan G20,Pink,1994,144312,Automatic,3511,Diesel,61987
+Audi,S6,Pink,2008,602346,Manual,3314,Diesel,125798
+Mercedes-Benz,CL-Class,Crimson,2012,801882,Manual,4079,Petrol,12773
+Mazda,626,Puce,2002,560572,Manual,2761,Diesel,141117
+Chevrolet,Express 3500,Crimson,1997,690454,Manual,2056,Petrol,65259
+Dodge,Dynasty,Puce,1993,506812,Automatic,2248,Diesel,60463
+GMC,Savana 3500,Khaki,2003,127787,Manual,2266,Petrol,115188
+Chevrolet,Silverado 3500,Red,2003,439362,Automatic,2513,Diesel,8158
+Nissan,Rogue,Pink,2009,834614,Manual,3613,Petrol,71076
+Lamborghini,Murciélago,Teal,2004,741973,Manual,1004,Petrol,106788
+Nissan,NX,Khaki,1993,556594,Automatic,2733,Diesel,77371
+Land Rover,Range Rover,Crimson,2001,988197,Manual,4802,Diesel,5340
+Pontiac,Grand Am,Red,1985,383828,Manual,3142,Petrol,124178
+Ford,Econoline E250,Khaki,1992,603757,Manual,1207,Diesel,43335
+Lexus,GX,Violet,2011,758,Automatic,2827,Petrol,56181
+Scion,tC,Turquoise,2013,631155,Manual,1368,Petrol,139174
+Lamborghini,Gallardo,Goldenrod,2003,649739,Manual,1819,Diesel,87078
+Bentley,Continental,Green,2008,441577,Automatic,4349,Petrol,94409
+Mercedes-Benz,SL-Class,Green,1994,265729,Manual,1229,Petrol,69525
+Plymouth,Grand Voyager,Orange,1995,434818,Automatic,2988,Petrol,10201
+Suzuki,SX4,Mauv,2012,508598,Automatic,1998,Diesel,66318
+Volkswagen,Passat,Red,2004,79651,Automatic,2480,Petrol,6085
+Toyota,4Runner,Khaki,1999,485509,Automatic,3343,Diesel,132505
+Lexus,CT,Yellow,2012,851714,Manual,4611,Diesel,84397
+Ford,E150,Blue,2008,497603,Automatic,1755,Petrol,40730
+Mazda,626,Crimson,1983,491815,Automatic,4650,Diesel,135134
+Ford,Focus ST,Puce,2013,790611,Manual,3512,Petrol,42613
+Mercury,Grand Marquis,Mauv,2003,352814,Manual,3338,Diesel,137801
+Kia,Spectra,Orange,2004,801786,Manual,2439,Diesel,84606
+Nissan,Pathfinder,Maroon,1994,469569,Automatic,4482,Diesel,79442
+Saab,900,Yellow,1990,734645,Manual,3611,Petrol,71897
+Mitsubishi,Sigma,Indigo,1989,71611,Automatic,2846,Petrol,33945
+Dodge,D350 Club,Green,1993,382931,Manual,1922,Petrol,103976
+Dodge,Caravan,Red,2002,361188,Automatic,1441,Diesel,135108
+Ford,Econoline E250,Puce,1995,324589,Automatic,3288,Petrol,62286
+Volkswagen,Touareg 2,Goldenrod,2009,942865,Automatic,4792,Diesel,102416
+Saab,9-5,Puce,1999,654365,Automatic,1654,Diesel,140711
+Nissan,GT-R,Teal,2009,75917,Automatic,1361,Diesel,54590
+BMW,M,Mauv,2002,586648,Manual,3430,Diesel,35845
+Audi,4000s Quattro,Fuscia,1986,265961,Automatic,1954,Diesel,141345
+Ford,Escape,Goldenrod,2000,383809,Automatic,4774,Petrol,11062
+Cadillac,Escalade,Crimson,2000,157798,Manual,1665,Petrol,10322
+Toyota,Tacoma,Orange,1996,223796,Manual,4211,Petrol,136146
+Spyker,C8 Spyder,Blue,2004,425706,Manual,2078,Diesel,8807
+Lexus,GS,Turquoise,2008,93651,Automatic,1050,Diesel,5686
+Land Rover,Sterling,Blue,1991,429642,Automatic,2588,Petrol,18560
+Nissan,Cube,Violet,2010,207026,Manual,3233,Petrol,77778
+Chevrolet,Suburban 2500,Fuscia,1995,936366,Manual,4226,Petrol,64140
+Hyundai,Accent,Goldenrod,1995,420783,Manual,2406,Diesel,60032
+Nissan,Sentra,Puce,1993,294109,Manual,2327,Petrol,15984
+Honda,Accord,Puce,2009,393562,Automatic,2874,Diesel,34693
+Chevrolet,Express 2500,Violet,2012,900391,Manual,3819,Diesel,108427
+Bentley,Continental GT,Fuscia,2007,323021,Manual,1002,Diesel,70316
+Mercury,Mystique,Purple,1998,178998,Manual,4904,Diesel,90864
+Subaru,Legacy,Khaki,1996,636531,Manual,4421,Diesel,37820
+Honda,Prelude,Red,1985,639852,Automatic,4418,Petrol,61992
+Volkswagen,Touareg 2,Orange,2008,203102,Automatic,3680,Diesel,59729
+Toyota,Avalon,Crimson,2008,629768,Automatic,2869,Diesel,52119
+Chrysler,Cirrus,Mauv,1997,269128,Manual,1679,Diesel,40810
+Audi,V8,Pink,1994,751073,Manual,3645,Petrol,114457
+Volkswagen,GTI,Purple,1991,614436,Automatic,2277,Petrol,12283
+Ford,F350,Maroon,2005,877053,Manual,1052,Petrol,52267
+Mercedes-Benz,M-Class,Puce,2001,610961,Automatic,3259,Petrol,77640
+Volkswagen,Jetta,Puce,2012,14990,Manual,2875,Diesel,24454
+Audi,Cabriolet,Mauv,1998,442104,Manual,2216,Diesel,107881
+Pontiac,Firefly,Green,1989,677609,Automatic,1876,Diesel,131860
+Ram,2500,Green,2011,271704,Automatic,3241,Diesel,19148
+BMW,Z4 M,Crimson,2007,323692,Manual,2917,Petrol,32377
+Buick,Coachbuilder,Orange,1990,746867,Automatic,4854,Petrol,39219
+Mazda,MPV,Turquoise,1998,832371,Automatic,1492,Diesel,110062
+Maybach,62,Yellow,2004,889687,Automatic,3022,Petrol,99417
+Mitsubishi,Chariot,Red,1986,238833,Manual,2494,Diesel,28894
+Subaru,Forester,Blue,2000,479955,Automatic,4548,Diesel,128466
+Pontiac,G5,Violet,2008,871491,Automatic,1424,Petrol,90615
+Suzuki,Equator,Aquamarine,2010,901438,Manual,4971,Petrol,63457
+Pontiac,Bonneville,Puce,2005,212301,Manual,2470,Diesel,60156
+BMW,530,Aquamarine,2001,410061,Automatic,2611,Petrol,10502
+Hyundai,Accent,Orange,2011,762299,Automatic,3439,Diesel,33102
+Dodge,Intrepid,Crimson,1993,497718,Manual,2430,Petrol,21766
+Infiniti,QX56,Mauv,2007,472870,Manual,1004,Petrol,142521
+Bentley,Continental Flying Spur,Goldenrod,2006,625579,Automatic,4891,Diesel,80234
+Saturn,VUE,Pink,2010,990963,Automatic,4634,Diesel,75614
+BMW,3 Series,Indigo,2002,645963,Automatic,2932,Petrol,99547
+Mazda,CX-7,Red,2009,202217,Automatic,3065,Petrol,58516
+Dodge,D250 Club,Pink,1993,746818,Manual,2810,Petrol,16243
+Buick,Park Avenue,Mauv,1993,195317,Manual,3346,Petrol,64044
+Saab,9000,Red,1993,410108,Manual,2860,Diesel,128385
+Volvo,XC70,Aquamarine,2007,511146,Manual,2040,Diesel,72875
+Toyota,Avalon,Aquamarine,1999,278440,Automatic,1510,Petrol,18181
+Toyota,Land Cruiser,Red,2009,888391,Automatic,1996,Petrol,15454
+Subaru,Forester,Green,2000,122699,Automatic,2612,Petrol,48230
+Lexus,SC,Maroon,1995,16747,Automatic,2807,Diesel,146448
+Ford,F150,Maroon,2002,433242,Automatic,2784,Petrol,73384
+Audi,A6,Blue,2000,424361,Manual,4480,Diesel,61927
+Audi,riolet,Green,1997,744856,Automatic,4524,Diesel,132181
+Audi,90,Violet,1994,957986,Automatic,3799,Petrol,56739
+Dodge,Ram Wagon B250,Orange,1994,339641,Manual,2345,Petrol,55119
+Jeep,Commander,Mauv,2007,946434,Automatic,1459,Diesel,27671
+Kia,Soul,Mauv,2012,867693,Automatic,4660,Petrol,101265
+Kia,Sedona,Turquoise,2005,536925,Manual,4333,Petrol,84426
+Lexus,ES,Fuscia,1999,155219,Manual,3131,Diesel,126901
+Mazda,B2600,Purple,1987,86280,Automatic,4932,Diesel,138559
+Toyota,Land Cruiser,Aquamarine,2011,327311,Manual,2522,Diesel,145685
+Land Rover,Discovery,Turquoise,2008,705340,Automatic,4451,Petrol,95154
+Honda,Civic,Indigo,2009,778803,Automatic,2664,Diesel,133466
+Volvo,XC90,Aquamarine,2006,968733,Manual,3798,Petrol,103240
+Mercedes-Benz,E-Class,Blue,1996,182456,Automatic,1338,Petrol,74584
+Chevrolet,Express 1500,Crimson,2012,480052,Automatic,3781,Diesel,119554
+Cadillac,DeVille,Yellow,2003,551507,Automatic,3978,Petrol,35136
+Lotus,Esprit,Violet,2004,206116,Automatic,1787,Petrol,22353
+Volkswagen,Passat,Violet,1988,800680,Automatic,1682,Diesel,137574
+GMC,Sonoma,Purple,1993,223244,Automatic,4687,Diesel,68371
+Kia,Sorento,Puce,2009,877840,Manual,1931,Petrol,81950
+Mazda,Navajo,Purple,1991,994271,Automatic,3596,Petrol,64766
+MINI,Cooper,Goldenrod,2004,159912,Manual,2057,Diesel,136438
+Subaru,SVX,Fuscia,1992,341888,Manual,1030,Petrol,146641
+Infiniti,QX,Goldenrod,2010,383253,Manual,4381,Diesel,12996
+Chevrolet,Avalanche 2500,Khaki,2004,872021,Manual,4974,Diesel,109584
+Jaguar,XK Series,Fuscia,1999,801924,Automatic,3922,Diesel,93671
+Dodge,Ram 3500,Green,2001,136436,Manual,1375,Diesel,86460
+Dodge,Ram Van 1500,Pink,1995,244911,Automatic,3835,Petrol,59634
+Hyundai,Santa Fe,Blue,2006,824316,Manual,4587,Diesel,80565
+MINI,Cooper,Maroon,2008,834640,Manual,1452,Petrol,34442
+Dodge,Shadow,Maroon,1992,96167,Automatic,3908,Petrol,133564
+Chevrolet,Volt,Aquamarine,2011,122041,Automatic,1028,Diesel,141789
+Volvo,S60,Puce,2005,372735,Automatic,3045,Diesel,88247
+Hummer,H3T,Maroon,2010,843539,Automatic,2758,Petrol,11742
+Mazda,MX-6,Green,1995,135636,Manual,2959,Diesel,32944
+Mazda,Navajo,Pink,1992,101723,Automatic,1219,Diesel,135887
+BMW,M6,Aquamarine,2008,838304,Automatic,2715,Petrol,50376
+Lincoln,Continental Mark VII,Blue,1986,491372,Automatic,4900,Diesel,96880
+Audi,Allroad,Teal,2002,840828,Automatic,2836,Petrol,97927
+Chevrolet,Impala,Fuscia,2001,271929,Automatic,4204,Diesel,113547
+Ford,E-Series,Purple,2005,66993,Manual,1401,Diesel,24418
+Nissan,Maxima,Orange,2005,826537,Manual,4320,Diesel,109848
+Ford,F150,Green,1995,652915,Manual,2138,Diesel,121942
+Subaru,Legacy,Fuscia,2001,170271,Manual,3368,Diesel,75642
+Ford,Laser,Yellow,1986,666186,Automatic,3618,Petrol,147311
+Lexus,IS,Puce,2008,679272,Automatic,1538,Petrol,29059
+Chrysler,300,Maroon,2012,84044,Automatic,4219,Diesel,122129
+Toyota,T100 Xtra,Maroon,1998,235999,Manual,4341,Petrol,40857
+Toyota,Prius,Violet,2010,471804,Manual,3830,Diesel,83936
+Lexus,GS,Red,1999,39075,Automatic,2659,Diesel,46619
+Porsche,911,Turquoise,1994,276395,Automatic,2267,Petrol,118482
+Pontiac,1000,Mauv,1984,511148,Automatic,3491,Diesel,27652
+Chevrolet,Tracker,Teal,2004,486975,Manual,1801,Petrol,33640
+Audi,A8,Puce,2012,274173,Automatic,1919,Diesel,108505
+Lexus,RX,Fuscia,2004,990217,Manual,1760,Diesel,86829
+Toyota,Solara,Fuscia,2001,323586,Manual,1964,Diesel,97703
+Chevrolet,Suburban 2500,Purple,2009,558608,Automatic,3463,Petrol,28995
+Saab,9000,Green,1997,344665,Automatic,2585,Diesel,130991
+Toyota,T100 Xtra,Maroon,1998,15006,Manual,1706,Diesel,132720
+Mitsubishi,Eclipse,Violet,1995,517043,Automatic,3045,Petrol,71342
+Chevrolet,Corvette,Mauv,2000,536579,Manual,1641,Diesel,104311
+Mercedes-Benz,CLS-Class,Blue,2011,392438,Automatic,1574,Petrol,128831
+Bentley,Continental GT,Turquoise,2007,79039,Manual,4617,Petrol,42237
+Ford,Explorer,Maroon,2002,562843,Manual,2898,Petrol,5323
+Isuzu,Rodeo,Turquoise,2001,68586,Automatic,2095,Diesel,26786
+Honda,Fit,Goldenrod,2009,989960,Manual,2155,Petrol,40659
+Chevrolet,G-Series G20,Khaki,1993,124605,Manual,4535,Diesel,17462
+Mitsubishi,L300,Yellow,1988,482031,Manual,4038,Petrol,90448
+Subaru,Tribeca,Blue,2009,673384,Manual,1747,Petrol,67483
+GMC,Yukon,Indigo,1998,282383,Automatic,4726,Diesel,135593
+Jeep,Grand Cherokee,Goldenrod,2003,916996,Manual,2640,Diesel,126110
+GMC,2500,Orange,1994,716826,Manual,2900,Diesel,141351
+Nissan,Rogue,Indigo,2012,655277,Automatic,4625,Petrol,12605
+Saab,900,Turquoise,1995,469398,Manual,3056,Petrol,65748
+Lamborghini,Diablo,Mauv,1993,139555,Manual,2654,Petrol,86043
+Buick,Regal,Fuscia,1998,343020,Manual,4554,Diesel,98114
+Dodge,Charger,Violet,2012,523732,Automatic,2977,Petrol,82546
+Mazda,MX-6,Crimson,1997,95126,Manual,4601,Diesel,31496
+Buick,Skylark,Violet,1990,513441,Manual,4037,Diesel,114245
+Chevrolet,Cruze,Aquamarine,2013,93098,Automatic,4633,Diesel,22766
+Ford,Mustang,Teal,2009,406678,Manual,4074,Diesel,87242
+Chevrolet,G-Series 2500,Mauv,1996,546138,Automatic,4098,Petrol,69897
+Land Rover,Range Rover,Yellow,2011,359708,Manual,1582,Diesel,118515
+Land Rover,Range Rover Sport,Fuscia,2010,146376,Manual,4366,Petrol,52838
+Nissan,NV3500,Aquamarine,2012,700494,Manual,4882,Petrol,26844
+GMC,Vandura 3500,Crimson,1994,802826,Manual,2795,Diesel,123890
+Volkswagen,Fox,Crimson,1991,1023,Manual,3932,Diesel,110200
+Plymouth,Horizon,Violet,1978,657725,Manual,2887,Petrol,128044
+Chevrolet,G-Series G20,Khaki,1993,338838,Manual,3431,Petrol,27458
+Lincoln,MKZ,Turquoise,2007,790780,Manual,4094,Petrol,68031
+Chrysler,Concorde,Red,2003,250277,Automatic,1457,Petrol,118557
+Mazda,323,Teal,1995,307179,Manual,4520,Petrol,78074
+Chevrolet,Blazer,Turquoise,1998,796412,Automatic,2005,Petrol,113681
+GMC,Yukon XL 2500,Maroon,2002,908766,Manual,3113,Diesel,122754
+Lincoln,MKS,Fuscia,2010,180476,Automatic,2889,Petrol,72645
+Mitsubishi,Eclipse,Violet,1994,746799,Manual,2772,Petrol,144393
+Toyota,Camry,Turquoise,2003,9227,Manual,4187,Diesel,24518
+Mercury,Capri,Blue,1992,555900,Manual,3020,Diesel,7127
+Subaru,Legacy,Fuscia,2004,364441,Manual,1899,Petrol,97565
+Nissan,Titan,Mauv,2007,839107,Manual,3187,Diesel,15192
+Chevrolet,Express 2500,Crimson,2012,160841,Automatic,2692,Petrol,87241
+Chevrolet,Tahoe,Goldenrod,1998,761862,Manual,4569,Diesel,85084
+Ford,Fusion,Turquoise,2007,40109,Automatic,4230,Diesel,76910
+Porsche,Cayenne,Red,2013,873930,Manual,2688,Petrol,77864
+Toyota,T100,Violet,1996,662180,Automatic,2625,Petrol,16454
+Chevrolet,Silverado 2500,Purple,2005,112180,Automatic,1695,Petrol,124278
+Hyundai,Excel,Pink,1992,952558,Manual,2810,Diesel,136643
+Mitsubishi,Expo,Puce,1992,212637,Manual,4588,Petrol,126126
+Chrysler,Town & Country,Maroon,2007,810490,Automatic,4891,Petrol,86894
+Ford,F150,Orange,2008,567533,Manual,4757,Petrol,145789
+Buick,Somerset,Purple,1985,298961,Automatic,4468,Petrol,38853
+Jeep,Wrangler,Red,2006,364043,Automatic,2375,Diesel,21423
+Nissan,Xterra,Red,2001,688170,Automatic,1674,Diesel,99472
+Nissan,Titan,Turquoise,2012,743136,Manual,2101,Petrol,119718
+Mercedes-Benz,E-Class,Yellow,1986,96544,Manual,1027,Petrol,51541
+Volkswagen,New Beetle,Purple,1999,659033,Automatic,3941,Diesel,107232
+Chevrolet,SSR,Puce,2003,490193,Automatic,2193,Petrol,86884
+Ford,Th!nk,Pink,2002,255554,Automatic,3917,Petrol,110543
+Honda,Accord,Violet,1999,688490,Automatic,1719,Petrol,130972
+Chrysler,300M,Maroon,2000,392939,Automatic,2438,Diesel,52886
+Bentley,Arnage,Yellow,2007,859108,Manual,1055,Diesel,51313
+Mercury,Monterey,Pink,2005,725056,Manual,1301,Petrol,120239
+Mercury,Grand Marquis,Pink,1992,137585,Automatic,4663,Diesel,96516
+Chevrolet,Astro,Blue,2001,157209,Manual,1741,Diesel,90173
+Dodge,Magnum,Red,2007,411136,Manual,1438,Petrol,76950
+Volkswagen,Jetta,Pink,1997,191786,Manual,3927,Petrol,94044
+Chevrolet,1500,Mauv,1996,406456,Automatic,4806,Diesel,94719
+Maserati,Quattroporte,Turquoise,2011,915718,Manual,3862,Diesel,109648
+Subaru,Justy,Orange,1989,312037,Manual,4647,Diesel,102608
+GMC,Jimmy,Red,1998,795911,Manual,3651,Diesel,75497
+Ford,Th!nk,Puce,2000,526722,Manual,3416,Petrol,68673
+Toyota,Celica,Fuscia,1978,578879,Automatic,4663,Petrol,24956
+Volvo,V70,Fuscia,2009,140017,Automatic,1736,Petrol,80922
+Lexus,HS,Teal,2011,351026,Manual,3691,Diesel,89594
+GMC,Sonoma,Indigo,2004,82932,Automatic,4998,Petrol,146817
+Land Rover,LR2,Blue,2008,489255,Automatic,2934,Diesel,114145
+Subaru,Justy,Red,1987,427622,Manual,1998,Diesel,100513
+BMW,X5,Mauv,2009,114347,Manual,3488,Diesel,87707
+Pontiac,Parisienne,Blue,1984,454394,Manual,3084,Petrol,39911
+Audi,4000s,Khaki,1986,380574,Manual,2950,Petrol,49527
+Mazda,B2600,Mauv,1987,158825,Manual,4929,Petrol,18394
+Mitsubishi,Cordia,Maroon,1988,537549,Manual,4295,Diesel,89191
+GMC,Savana 3500,Blue,2007,547241,Manual,1674,Diesel,13952
+Buick,LeSabre,Violet,1990,750051,Manual,1619,Diesel,122604
+BMW,1 Series,Indigo,2010,431940,Manual,1816,Diesel,77956
+Lexus,SC,Green,2009,409901,Automatic,1769,Diesel,59438
+Mazda,MX-5,Orange,2006,40938,Automatic,3229,Petrol,8120
+Land Rover,Defender,Turquoise,1993,623113,Manual,4805,Petrol,124706
+Geo,Metro,Crimson,1997,323541,Automatic,4526,Petrol,111358
+Mercury,Mountaineer,Turquoise,1997,256577,Automatic,4805,Petrol,87542
+Aston Martin,Vanquish S,Maroon,2006,781572,Automatic,2537,Diesel,113666
+Infiniti,QX,Purple,2011,659510,Manual,2245,Diesel,14421
+Hyundai,Sonata,Mauv,1994,392901,Automatic,2163,Petrol,37433
+Ford,Crown Victoria,Orange,1996,721322,Manual,2439,Petrol,134804
+Pontiac,Grand Am,Yellow,1993,683743,Automatic,3926,Diesel,58015
+Chevrolet,SSR,Teal,2006,942947,Automatic,2023,Petrol,63226
+Ford,F250,Crimson,2009,114410,Manual,1600,Petrol,100075
+Mercedes-Benz,W201,Teal,1989,970084,Automatic,3973,Diesel,11620
+Cadillac,DTS,Crimson,2010,541434,Automatic,3270,Diesel,34559
+Hummer,H2,Teal,2005,956644,Automatic,1172,Diesel,63234
+Nissan,Versa,Goldenrod,2011,126097,Manual,2520,Petrol,133723
+Ford,Mustang,Maroon,2010,723671,Manual,3775,Petrol,50108
+Mercedes-Benz,SL-Class,Red,2009,866802,Manual,2547,Petrol,19364
+Ford,Bronco II,Yellow,1985,551168,Automatic,2225,Diesel,47806
+Audi,A4,Mauv,2010,701494,Automatic,3382,Diesel,7879
+Volkswagen,Golf,Blue,1996,252129,Manual,3249,Diesel,144464
+Mercedes-Benz,S-Class,Yellow,1994,953680,Automatic,4908,Diesel,72531
+Hyundai,Tiburon,Teal,2004,279630,Manual,1448,Diesel,15267
+Porsche,Boxster,Khaki,2002,908896,Manual,4554,Diesel,11304
+BMW,3 Series,Violet,2004,134267,Manual,1005,Diesel,116289
+Panoz,Esperante,Blue,2008,644289,Manual,3255,Diesel,76966
+Dodge,Ram Van B150,Turquoise,1992,620574,Manual,1541,Diesel,77161
+Pontiac,1000,Fuscia,1985,781264,Manual,4083,Diesel,23311
+Toyota,Supra,Goldenrod,1998,17571,Automatic,4535,Diesel,114862
+Toyota,Celica,Mauv,2005,973431,Automatic,3748,Petrol,78152
+Porsche,928,Pink,1988,190836,Automatic,2734,Diesel,110328
+Aston Martin,DB9,Orange,2010,653658,Automatic,1851,Diesel,35378
+Audi,TT,Khaki,2010,219339,Automatic,3155,Diesel,100353
+Chevrolet,Blazer,Goldenrod,2002,403927,Automatic,3285,Diesel,69632
+Acura,NSX,Teal,1994,141448,Manual,4071,Petrol,67384
+Chevrolet,Silverado 3500,Blue,2001,605708,Manual,4826,Petrol,14846
+Pontiac,Firebird,Khaki,1987,159742,Manual,4622,Diesel,121677
+Audi,A8,Indigo,2006,767259,Automatic,4450,Petrol,21651
+Ford,Freestar,Fuscia,2007,398189,Manual,1648,Petrol,112048
+Toyota,Celica,Mauv,1993,363358,Automatic,1503,Diesel,95193
+Ford,Probe,Teal,1990,124689,Automatic,2468,Diesel,104582
+Pontiac,Sunbird,Pink,1992,826257,Automatic,3702,Petrol,83047
+Cadillac,Escalade EXT,Puce,2011,485683,Manual,1104,Petrol,73131
+Volkswagen,GLI,Green,2009,750566,Automatic,2016,Petrol,119902
+Isuzu,Oasis,Puce,1997,212587,Manual,3364,Petrol,8905
+Saab,900,Aquamarine,1989,354633,Manual,3847,Petrol,123792
+Chevrolet,2500,Crimson,1999,882698,Automatic,3851,Petrol,149394
+Chevrolet,Impala,Indigo,2006,445398,Automatic,2973,Diesel,85533
+Volvo,V70,Purple,2000,847590,Automatic,3885,Diesel,30124
+Maserati,Biturbo,Indigo,1985,546590,Manual,1334,Diesel,132394
+Mitsubishi,Lancer Evolution,Fuscia,2010,171648,Automatic,3266,Diesel,69569
+Chevrolet,Impala,Yellow,2012,946478,Manual,4855,Petrol,86061
+Ford,Thunderbird,Goldenrod,1996,830186,Manual,1227,Petrol,74192
+Volvo,V40,Khaki,2003,860420,Manual,2027,Petrol,88393
+GMC,Yukon,Indigo,2001,675765,Automatic,3355,Petrol,54405
+Nissan,Pathfinder,Indigo,2005,308449,Automatic,4804,Diesel,102342
+BMW,X5,Pink,2004,16050,Manual,2136,Petrol,135544
+Dodge,Grand Caravan,Green,1997,493711,Automatic,3227,Diesel,129368
+Ford,Tempo,Purple,1991,878982,Manual,3273,Petrol,137464
+Mercedes-Benz,CL-Class,Green,2008,138074,Automatic,2304,Diesel,15960
+Kia,Soul,Purple,2011,427518,Automatic,4159,Diesel,126322
+Saab,9000,Goldenrod,1988,214723,Manual,4136,Petrol,20573
+Toyota,MR2,Violet,2001,801535,Automatic,3674,Petrol,72789
+Honda,Crosstour,Red,2012,852841,Automatic,3582,Diesel,130995
+Buick,LeSabre,Goldenrod,1997,75487,Manual,3206,Petrol,143565
+Lexus,ES,Purple,1997,131070,Automatic,1253,Petrol,73747
+Lexus,CT,Orange,2011,133833,Manual,4443,Petrol,117997
+Ford,Explorer,Indigo,2009,261285,Manual,3669,Diesel,143592
+Lotus,Elise,Khaki,2004,704218,Automatic,1505,Diesel,147655
+Chevrolet,S10,Puce,1993,185689,Manual,1871,Petrol,63459
+Mercedes-Benz,GLK-Class,Violet,2010,364266,Manual,2774,Diesel,130248
+Ford,Expedition,Blue,2006,768857,Automatic,3361,Diesel,127963
+Chrysler,Fifth Ave,Pink,1992,384565,Manual,4233,Petrol,94988
+Volkswagen,Jetta,Indigo,1997,83897,Manual,3188,Petrol,93211
+Oldsmobile,Achieva,Blue,1993,363917,Manual,4834,Diesel,6108
+Ford,Mustang,Indigo,2000,519772,Manual,2007,Diesel,111283
+Mercedes-Benz,SLK55 AMG,Violet,2009,637981,Manual,3708,Petrol,31526
+Lexus,GS,Red,2003,864777,Manual,3899,Petrol,103563
+Mazda,Protege,Violet,1998,497518,Manual,3635,Diesel,62924
+BMW,7 Series,Pink,1998,233814,Automatic,4240,Diesel,90059
+Chevrolet,Sportvan G10,Violet,1993,280101,Automatic,2457,Petrol,32789
+Honda,S2000,Teal,2005,36108,Manual,2644,Petrol,34717
+Acura,NSX,Maroon,1994,610155,Manual,3713,Petrol,111058
+Ford,Mustang,Crimson,2005,961452,Automatic,4194,Diesel,141273
+Volvo,C70,Mauv,1999,507331,Manual,4163,Petrol,43097
+Cadillac,Seville,Goldenrod,1998,218005,Manual,2200,Petrol,106824
+Dodge,Ram 3500 Club,Puce,1996,978071,Manual,2432,Petrol,47735
+Mercedes-Benz,W126,Aquamarine,1983,691994,Automatic,2768,Diesel,109232
+Nissan,350Z Roadster,Red,2006,345439,Manual,4231,Diesel,129108
+Aston Martin,Rapide,Crimson,2011,261193,Manual,2789,Diesel,48144
+Mitsubishi,RVR,Blue,1992,748948,Manual,1862,Petrol,103240
+Chevrolet,Suburban 1500,Maroon,2007,7895,Manual,3172,Petrol,75608
+Volkswagen,Passat,Maroon,2012,299120,Manual,1706,Diesel,72368
+Ford,Escort,Purple,1986,409916,Manual,3230,Petrol,102188
+Suzuki,XL-7,Mauv,2004,310206,Manual,2683,Diesel,75841
+Dodge,Dakota,Mauv,1998,865600,Automatic,2112,Petrol,103392
+Mercury,Grand Marquis,Khaki,1990,235303,Automatic,4312,Diesel,83571
+Toyota,Sequoia,Maroon,2006,201016,Manual,4573,Diesel,38723
+Buick,Regal,Khaki,1999,435376,Automatic,3157,Petrol,104596
+Ford,Explorer Sport Trac,Indigo,2008,584444,Manual,3451,Petrol,45171
+Mazda,MX-5,Maroon,2000,878635,Automatic,1328,Petrol,129962
+Infiniti,G37,Khaki,2009,360485,Manual,2766,Petrol,35137
+GMC,Sierra 1500,Turquoise,2005,64706,Manual,3595,Petrol,145578
+Ford,Expedition,Khaki,2010,384414,Manual,4103,Diesel,146914
+Plymouth,Prowler,Yellow,2000,486455,Automatic,3071,Petrol,111284
+GMC,Sierra 3500,Blue,2006,880083,Manual,3950,Diesel,41536
+Lamborghini,Murciélago,Red,2006,365134,Automatic,4952,Petrol,133423
+Scion,tC,Yellow,2012,490898,Manual,3286,Petrol,116518
+Lincoln,Continental,Red,1988,50886,Manual,1195,Diesel,70039
+Ferrari,458 Italia,Red,2010,165815,Automatic,2085,Petrol,115974
+Mazda,B-Series Plus,Purple,2003,74762,Automatic,2837,Diesel,30191
+Infiniti,QX56,Mauv,2011,424444,Automatic,4351,Diesel,17750
+Porsche,Cayenne,Turquoise,2010,30957,Automatic,2836,Petrol,9271
+Chevrolet,Aveo,Maroon,2006,5314,Automatic,3972,Petrol,22501
+Bentley,Arnage,Indigo,2007,202765,Manual,2420,Diesel,105573
+Mitsubishi,Montero,Pink,2003,19221,Automatic,4642,Petrol,14574
+Subaru,Justy,Indigo,1990,857999,Manual,4831,Petrol,113613
+Ford,Fairlane,Fuscia,1965,997862,Manual,1954,Diesel,58343
+Buick,LeSabre,Pink,2000,259257,Automatic,3131,Petrol,26495
+Mercury,Grand Marquis,Maroon,2002,270511,Automatic,4299,Petrol,134436
+Ford,EXP,Maroon,1986,178600,Manual,4764,Diesel,41763
+Lexus,LS Hybrid,Aquamarine,2011,900001,Automatic,1033,Diesel,119216
+Volkswagen,Passat,Purple,1986,713966,Manual,3192,Diesel,102702
+Ford,Fusion,Maroon,2012,911442,Manual,4991,Petrol,104344
+Chevrolet,Express 2500,Turquoise,2012,166470,Manual,3467,Petrol,90453
+Chevrolet,Suburban 2500,Pink,2011,268050,Automatic,4084,Diesel,135548
+Dodge,Daytona,Purple,1992,557875,Manual,1573,Petrol,86156
+BMW,530,Purple,2002,308878,Automatic,1243,Diesel,5843
+Acura,TL,Aquamarine,2005,268910,Automatic,1034,Diesel,53706
+Toyota,TundraMax,Fuscia,2008,840313,Automatic,4947,Diesel,134180
+GMC,Sierra 3500,Turquoise,2011,953017,Manual,3831,Diesel,18520
+GMC,Sierra 2500,Aquamarine,2010,124738,Manual,1461,Diesel,40582
+Chevrolet,Cavalier,Goldenrod,1992,743096,Manual,4621,Petrol,82071
+Chevrolet,Suburban 2500,Puce,2011,48618,Automatic,3249,Diesel,66067
+Toyota,Camry,Green,2000,638943,Automatic,2159,Diesel,83085
+Honda,Accord,Aquamarine,1986,946454,Automatic,3833,Petrol,145799
+Volkswagen,Jetta,Purple,1984,665422,Automatic,4035,Petrol,39094
+Chevrolet,3500,Violet,1999,259663,Automatic,3087,Diesel,35716
+GMC,Sonoma,Aquamarine,1997,144837,Manual,3114,Petrol,112470
+Lotus,Exige,Aquamarine,2011,835548,Manual,1197,Diesel,85496
+Infiniti,G,Aquamarine,2012,176241,Automatic,1207,Diesel,50456
+Honda,Passport,Aquamarine,1996,866153,Automatic,3894,Diesel,87601
+Nissan,Versa,Fuscia,2010,894836,Manual,3700,Petrol,72014
+Nissan,Sentra,Crimson,2006,588144,Manual,2687,Petrol,77826
+Nissan,200SX,Pink,1995,133764,Manual,1368,Diesel,8124
+Mitsubishi,Outlander,Indigo,2010,20635,Manual,1809,Petrol,119739
+BMW,M6,Pink,2008,705503,Automatic,1183,Petrol,42730
+Lexus,ES,Blue,1993,488525,Manual,1486,Diesel,55583
+Oldsmobile,Aurora,Teal,1999,76999,Manual,2796,Diesel,145896
+Hyundai,Excel,Red,1993,988157,Automatic,4234,Diesel,135775
+Acura,NSX,Maroon,2002,145231,Automatic,3494,Petrol,89712
+Ford,Ranger,Khaki,2005,719885,Automatic,1171,Diesel,144341
+Land Rover,Range Rover Sport,Green,2009,147320,Automatic,3090,Petrol,78122
+Acura,RSX,Goldenrod,2002,695507,Automatic,4283,Petrol,37011
+Rolls-Royce,Phantom,Red,2006,535206,Automatic,1333,Petrol,18628
+Porsche,Cayenne,Pink,2008,472873,Automatic,2962,Diesel,99664
+Dodge,Stratus,Yellow,1995,481873,Manual,3314,Diesel,65682
+Buick,Skyhawk,Pink,1988,767497,Automatic,1346,Diesel,33073
+Pontiac,Grand Prix,Yellow,1985,784829,Automatic,1521,Petrol,100850
+Hummer,H2,Fuscia,2005,277575,Manual,4121,Diesel,59406
+Mazda,MX-6,Indigo,1990,498602,Automatic,1561,Diesel,113077
+Chrysler,PT Cruiser,Red,2008,177618,Automatic,2504,Petrol,116811
+BMW,8 Series,Violet,1995,342294,Automatic,1048,Petrol,39746
+Chevrolet,Avalanche 1500,Orange,2003,35263,Manual,4184,Diesel,38232
+Lotus,Esprit,Fuscia,2004,933897,Manual,4535,Petrol,98179
+Ford,Mustang,Violet,1987,507829,Manual,2427,Petrol,38301
+Mitsubishi,Mighty Max Macro,Aquamarine,1994,999050,Manual,1964,Diesel,75311
+Mitsubishi,Diamante,Crimson,1999,895773,Automatic,2081,Diesel,122967
+GMC,Sierra 2500,Fuscia,2009,388814,Automatic,4458,Diesel,7456
+Nissan,Sentra,Red,2002,738481,Manual,1666,Petrol,130580
+GMC,Acadia,Mauv,2010,868922,Manual,2015,Diesel,140484
+Suzuki,XL-7,Maroon,2004,863031,Manual,3302,Diesel,63485
+Chevrolet,Silverado 2500,Puce,2004,769539,Automatic,4556,Diesel,99518
+Chevrolet,Traverse,Violet,2012,744667,Manual,3525,Petrol,85991
+Ford,F350,Aquamarine,2010,689946,Manual,4085,Diesel,83522
+Ford,Crown Victoria,Orange,2010,336005,Manual,3485,Petrol,131686
+Cadillac,SRX,Puce,2008,533804,Manual,4732,Petrol,56374
+Mazda,CX-7,Indigo,2008,611268,Manual,4649,Petrol,14901
+Volvo,S40,Yellow,2005,349075,Manual,4584,Petrol,13916
+Subaru,Outback,Goldenrod,2009,17270,Automatic,2114,Petrol,104759
+Chevrolet,1500,Green,1992,511381,Automatic,2060,Diesel,27401
+Toyota,Land Cruiser,Crimson,1998,956934,Automatic,4371,Diesel,134733
+Volkswagen,Passat,Fuscia,1991,575635,Automatic,3511,Diesel,83283
+Mitsubishi,Starion,Orange,1988,667663,Automatic,3576,Diesel,102226
+GMC,Savana 3500,Indigo,2004,762486,Manual,2034,Diesel,48457
+Honda,Insight,Teal,2005,953133,Automatic,3090,Petrol,140117
+Lincoln,Town Car,Teal,2007,891198,Automatic,4855,Diesel,49065
+Mercury,Cougar,Orange,1988,344697,Manual,4153,Petrol,79804
+Mitsubishi,Galant,Green,1989,102587,Manual,2040,Diesel,139351
+Ford,Probe,Mauv,1997,544071,Automatic,2370,Diesel,15448
+Audi,Coupe GT,Orange,1986,835873,Automatic,1210,Diesel,16294
+Kia,Spectra,Indigo,2005,125857,Automatic,2472,Diesel,54838
+Lexus,RX Hybrid,Blue,2011,130897,Manual,3930,Petrol,88101
+Saab,900,Goldenrod,1992,600240,Manual,1151,Petrol,36257
+Chrysler,Cirrus,Orange,1998,495387,Manual,2345,Petrol,73698
+Mercury,Villager,Fuscia,2002,951804,Automatic,3843,Diesel,89977
+Mazda,Familia,Pink,1992,372113,Automatic,3389,Petrol,135041
+Saab,900,Indigo,1986,476836,Manual,1520,Petrol,146062
+Kia,Rio5,Maroon,2008,804206,Automatic,4946,Diesel,31598
+Buick,LaCrosse,Mauv,2012,142862,Automatic,2405,Petrol,144138
+Dodge,D150 Club,Mauv,1992,371157,Automatic,3785,Petrol,43806
+GMC,Sierra 3500,Yellow,2007,36651,Manual,1073,Diesel,135003
+Scion,xB,Violet,2009,489981,Automatic,3219,Petrol,127399
+Ford,Aerostar,Blue,1987,354874,Automatic,2025,Petrol,97733
+Nissan,Pathfinder,Green,2005,228641,Automatic,4728,Petrol,96944
+MINI,Cooper Clubman,Puce,2009,653440,Automatic,3018,Diesel,100731
+Saturn,S-Series,Teal,1993,96188,Manual,4518,Diesel,78137
+Ford,F-350 Super Duty,Goldenrod,2006,739602,Manual,2497,Petrol,89779
+Suzuki,Daewoo Lacetti,Khaki,2008,21361,Automatic,1398,Petrol,133184
+Ford,Econoline E150,Violet,1996,350718,Manual,1184,Diesel,39714
+Audi,4000s Quattro,Violet,1986,600621,Manual,1822,Diesel,37948
+GMC,Vandura 2500,Turquoise,1992,928301,Manual,2413,Petrol,131469
+Mitsubishi,Precis,Yellow,1986,943818,Manual,3681,Petrol,47125
+Dodge,Ram Van 3500,Teal,2003,725292,Manual,4980,Petrol,14848
+Audi,S4,Mauv,1993,107077,Automatic,3183,Diesel,55493
+Mercury,Cougar,Aquamarine,1994,685946,Manual,3031,Petrol,60816
+Mercedes-Benz,C-Class,Pink,2008,532440,Manual,4917,Petrol,144184
+Mazda,Mazda6,Teal,2005,991305,Automatic,3290,Diesel,36991
+Chevrolet,Malibu,Purple,2005,676207,Manual,3561,Diesel,54735
+Volkswagen,Cabriolet,Mauv,1996,931305,Manual,2840,Diesel,46510
+BMW,3 Series,Teal,1992,312023,Automatic,2222,Diesel,85760
+GMC,Vandura 2500,Teal,1992,28793,Automatic,1622,Diesel,68377
+Dodge,Intrepid,Mauv,2002,376129,Manual,2678,Petrol,65968
+Mercedes-Benz,C-Class,Turquoise,2004,370768,Manual,3846,Petrol,82705
+Dodge,Ram 3500,Pink,1997,289782,Manual,4941,Petrol,144535
+Maserati,Quattroporte,Red,1984,686341,Automatic,1395,Diesel,97623
+Lincoln,Town Car,Turquoise,1989,648128,Automatic,1000,Diesel,92773
+Chrysler,LeBaron,Goldenrod,1994,892415,Automatic,3618,Petrol,54837
+Chrysler,Town & Country,Pink,1999,659607,Automatic,1650,Diesel,68287
+Ford,Aerostar,Turquoise,1992,814522,Manual,3016,Petrol,92952
+Chevrolet,Silverado 2500,Aquamarine,2006,657031,Automatic,3793,Petrol,115725
+Mazda,626,Teal,2001,438211,Automatic,2673,Diesel,126858
+Austin,Mini,Red,1959,964422,Automatic,4343,Diesel,106839
+Hyundai,Sonata,Turquoise,1999,718060,Manual,3122,Petrol,126774
+Subaru,Impreza,Fuscia,2009,76652,Automatic,3213,Petrol,58020
+Mercury,Cougar,Khaki,1969,890225,Manual,3652,Petrol,82730
+Lincoln,Navigator,Fuscia,2004,449046,Manual,2656,Petrol,87196
+Lamborghini,Gallardo,Maroon,2009,639115,Automatic,4619,Petrol,72775
+Pontiac,Grand Am,Aquamarine,1997,53835,Manual,2007,Diesel,75066
+Ford,Probe,Yellow,1990,806278,Manual,2244,Petrol,146927
+Honda,S2000,Purple,2005,941131,Manual,4086,Diesel,23332
+Dodge,Stratus,Mauv,2002,823330,Automatic,2514,Petrol,13050
+Honda,Civic,Goldenrod,2004,446289,Manual,2838,Diesel,64359
+BMW,Z4,Blue,2009,684992,Manual,4493,Petrol,114730
+GMC,Savana 2500,Green,2001,555174,Automatic,3482,Petrol,102951
+Nissan,GT-R,Purple,2013,419428,Manual,3483,Diesel,35301
+Nissan,Frontier,Indigo,2012,51862,Automatic,4860,Petrol,131127
+Mitsubishi,Tredia,Violet,1988,382456,Automatic,3210,Diesel,8422
+GMC,Savana,Indigo,2006,207697,Manual,2192,Petrol,105248
+Mazda,MX-5,Aquamarine,2004,802605,Automatic,3563,Petrol,110890
+Jeep,Grand Cherokee,Puce,2000,818757,Automatic,4800,Diesel,44661
+MINI,Cooper,Aquamarine,2007,499708,Automatic,4795,Diesel,91133
+Audi,Q7,Goldenrod,2012,754882,Manual,4375,Petrol,110075
+Chevrolet,SSR,Fuscia,2003,809994,Automatic,4131,Petrol,97387
+Saturn,VUE,Green,2004,560647,Manual,2850,Petrol,94666
+Hyundai,Elantra,Crimson,2008,824713,Manual,3512,Diesel,6714
+Ford,Mustang,Khaki,2004,476348,Automatic,2803,Petrol,107929
+Maybach,57,Crimson,2004,510130,Manual,1208,Petrol,11705
+Dodge,Ram 2500,Purple,1996,347843,Manual,1465,Diesel,30274
+Chevrolet,Express 1500,Turquoise,2000,401006,Automatic,2675,Diesel,20804
+Mazda,Mazda3,Goldenrod,2006,762202,Manual,2696,Petrol,29172
+Toyota,4Runner,Goldenrod,1996,46074,Manual,4604,Diesel,120745
+Subaru,Legacy,Purple,1996,93694,Automatic,3371,Diesel,81597
+Mitsubishi,Mirage,Turquoise,1985,346605,Automatic,2783,Diesel,28491
+Lotus,Elise,Purple,2004,611286,Manual,3975,Petrol,136378
+Dodge,Ram 2500,Green,1995,528716,Manual,2910,Petrol,22649
+Hyundai,Elantra,Pink,2009,816160,Automatic,4677,Petrol,77348
+Buick,Park Avenue,Yellow,1996,323154,Manual,4619,Diesel,47355
+Lamborghini,Gallardo,Indigo,2005,69863,Automatic,4463,Petrol,26999
+Ford,E-Series,Puce,2011,143633,Manual,4561,Petrol,61215
+Jeep,Grand Cherokee,Teal,2012,128875,Manual,4940,Petrol,76651
+Honda,Civic,Goldenrod,1988,300883,Automatic,2987,Diesel,114780
+BMW,M3,Goldenrod,1998,40587,Manual,1379,Diesel,108758
+Aston Martin,Vantage,Turquoise,2009,971452,Automatic,2537,Petrol,9086
+Mitsubishi,Montero,Goldenrod,2006,504173,Manual,1178,Petrol,102420
+Subaru,Outback,Khaki,2006,391515,Automatic,3741,Petrol,37394
+Honda,Accord,Yellow,1996,546114,Manual,1332,Diesel,65791
+Lexus,RX Hybrid,Puce,2008,866091,Manual,2645,Petrol,59456
+Aston Martin,Virage,Aquamarine,2011,805734,Manual,1241,Petrol,29636
+Audi,5000S,Yellow,1987,800908,Manual,3688,Diesel,72002
+Mitsubishi,Galant,Teal,1992,222797,Automatic,4056,Petrol,60897
+Rolls-Royce,Phantom,Maroon,2006,236222,Automatic,4065,Petrol,60782
+Mazda,929,Maroon,1993,28336,Automatic,2781,Diesel,78238
+Dodge,Ram 1500,Mauv,2010,803333,Automatic,4190,Petrol,116029
+Dodge,Ram Van 3500,Green,2003,926575,Manual,1749,Petrol,138277
+Cadillac,Escalade,Aquamarine,2002,535027,Manual,2361,Petrol,61384
+Nissan,Pathfinder,Teal,2000,505148,Manual,2074,Petrol,125135
+Mercury,Cougar,Pink,2001,732133,Manual,2171,Diesel,88014
+Audi,A8,Indigo,1997,948567,Automatic,4564,Diesel,103496
+Alfa Romeo,Spider,Aquamarine,1993,707300,Automatic,2033,Diesel,35460
+GMC,Acadia,Red,2010,479155,Manual,4342,Diesel,34656
+Chevrolet,Cavalier,Aquamarine,2000,259708,Automatic,4468,Petrol,53523
+Mitsubishi,Eclipse,Blue,2005,751599,Automatic,1336,Petrol,29835
+Chevrolet,Silverado 1500,Green,2001,592729,Automatic,4383,Petrol,124788
