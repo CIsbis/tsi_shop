@@ -57,3 +57,4 @@ def handle_logged_in_user_input():
 
 
 
+get_user_input_welcome()
