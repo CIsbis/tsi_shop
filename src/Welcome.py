@@ -46,6 +46,7 @@ def handle_logged_in_user_input():
     while user_input not in ["1", "2", "3"]:
         if user_input == "1":
             print("You can browse our cars")
+            search_cars()
         elif user_input == "2":
             AddCar().cars_add()
         elif user_input == "3":
