@@ -10,7 +10,7 @@ class ReadCSVFile:
     def get_file_data(self,file_name):
         self.fix_working_directory()
         file_data = []
-        with open("resource/" + file_name, 'rt')as data_file:
+        with open("src/" + file_name, 'rt')as data_file:
             file_reader = csv.reader(data_file)
             for row in file_reader:
                 file_data.append(row)
