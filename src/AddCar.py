@@ -26,6 +26,3 @@ class AddCar:
 
         print("Car added successfully!")
 
-# Example usage:
-add_car_instance = AddCar("cars.csv")
-add_car_instance.cars_add()

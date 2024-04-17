@@ -18,6 +18,3 @@ class SignUp:
 
         print("Signed up successfully!")
 
-# Example usage:
-sign_up_instance = SignUp("customer.csv")
-sign_up_instance.sign_up()
