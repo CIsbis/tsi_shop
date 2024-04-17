@@ -40,7 +40,6 @@ def get_logged_in_user_input():
 
 
 def handle_logged_in_user_input(user_input):
-    while user_input not in ["1", "2", "3"]:
         if user_input == "1":
             print("You can browse our cars")
             search_cars()
