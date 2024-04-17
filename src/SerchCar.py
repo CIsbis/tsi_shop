@@ -1,6 +1,6 @@
 import csv
 
-def search_car(make=None, color=None):
+def search_logic(make=None, color=None):
     with open('cars.csv', 'r') as file:
         reader = csv.reader(file)
         found_cars = []
@@ -17,7 +17,7 @@ def search_cars():
     color = input("Enter the color of the car you want to search for (leave empty to skip): ").strip()
 
 
-    results = search_car(make, color)
+    results = search_logic(make, color)
     if results:
         if make:
             print(f"Found {len(results)} cars matching the make '{make}':")
