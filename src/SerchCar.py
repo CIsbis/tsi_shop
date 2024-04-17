@@ -28,3 +28,4 @@ def search_cars():
             print(car)
     else:
         print("No cars found.")
+

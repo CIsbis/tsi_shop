@@ -18,8 +18,6 @@ class AddCar:
         fuel_type = input("Fuel type: ")
         price = input("Price: ")
 
-
-        # Write the email and password to the CSV file
         with open(self.csv_file, 'a', newline='') as file:
             writer = csv.writer(file)
             writer.writerow([make, model, colour, year, mileage, gearbox, engine_size, fuel_type, price])
