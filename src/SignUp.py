@@ -16,5 +16,5 @@ class SignUp:
             writer = csv.writer(file)
             writer.writerow([email_address, first_name, last_name, password])
 
-        print("Signed up successfully!")
+        return print("Signed up successfully!")
 
