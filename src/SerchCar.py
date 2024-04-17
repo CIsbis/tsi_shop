@@ -12,7 +12,7 @@ def search_logic(make=None, color=None):
                     found_cars.append(row)
         return found_cars
 
-def search_cars():
+def filter():
     make = input("Enter the make of the car you want to search for (leave empty to skip): ").strip()
     color = input("Enter the color of the car you want to search for (leave empty to skip): ").strip()
 
@@ -30,4 +30,4 @@ def search_cars():
 
 
 
-search_cars()
+filter()
