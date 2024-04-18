@@ -1,17 +1,19 @@
 import csv
 
+from src.ReadCSVFile import ReadCSVFile
+
 
 def search_car_logic(make=None, color=None):
-    with open('cars.csv', 'r') as file:
-        reader = csv.reader(file)
-        found_cars = []
-        for row in reader:
-            if row:
-                if make and row[0].strip().lower() == make.strip().lower():
-                    found_cars.append(row)
-                elif color and row[2].strip().lower() == color.strip().lower():
-                    found_cars.append(row)
-        return found_cars
+    found_cars = ReadCSVFile().get_file_data('cars.csv')
+    filtered_cars = []
+
+    for row in found_cars:
+        if row:
+            if make and row[0].strip().lower() == make.strip().lower():
+                filtered_cars.append(row)
+            elif color and row[2].strip().lower() == color.strip().lower():
+                filtered_cars.append(row)
+    return filtered_cars
 
 
 def search_cars():
@@ -28,4 +30,3 @@ def search_cars():
             print(car)
     else:
         print("No cars found.")
-

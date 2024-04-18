@@ -1,7 +1,7 @@
 from LogIn import LogIn
 from AddCar import AddCar
 from SignUp import SignUp
-from SerchCar import SearchCar
+from src.SerchCar import search_cars
 
 
 def get_user_input_welcome():
@@ -43,9 +43,11 @@ def get_logged_in_user_input():
 def handle_logged_in_user_input(user_input):
     if user_input == "1":
         print("You can browse our cars")
-        SearchCar().search_cars()
+        search_cars()
+        get_logged_in_user_input()
     elif user_input == "2":
         AddCar("cars.csv").cars_add()
+        get_logged_in_user_input()
     elif user_input == "3":
         print("Goodbye")
         exit()
