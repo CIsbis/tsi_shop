@@ -1,6 +1,4 @@
-import csv
-
-from src.ReadCSVFile import ReadCSVFile
+from ReadCSVFile import ReadCSVFile
 
 
 def search_car_logic(make=None, color=None, model=None, automatic_or_manual=None, electric_or_not=None, mileage=None,
