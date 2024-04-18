@@ -1,6 +1,9 @@
 from CustomerLoad import CustomerLoad
+
+
 class LogIn:
-    def get_password(self,email_address):
+
+    def get_password(self, email_address):
         customerLoad = CustomerLoad()
         customers = customerLoad.load_customers()
         password = ""
