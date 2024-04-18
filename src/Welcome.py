@@ -1,7 +1,7 @@
 from LogIn import LogIn
 from AddCar import AddCar
 from SignUp import SignUp
-from SerchCar import search_cars
+from SerchCar import SearchCar
 
 
 def get_user_input_welcome():
@@ -16,18 +16,19 @@ def get_user_input_welcome():
 
 
 def handle_non_logged_in_user_input(user_input):
-        if user_input == "1":
-            LogIn().log_in()
-            get_logged_in_user_input()
-        elif user_input == "2":
-            SignUp("customer.csv").sign_up()
-            print("You have been registered successfully!")
-        elif user_input == "3":
-            print("Goodbye")
-            exit()
-        else:
-            print("Invalid input. Please try again.")
-            get_user_input_welcome()
+    if user_input == "1":
+        LogIn().log_in()
+        get_logged_in_user_input()
+    elif user_input == "2":
+        SignUp("customer.csv").sign_up()
+        print("You have been registered successfully!")
+        get_user_input_welcome()
+    elif user_input == "3":
+        print("Goodbye")
+        exit()
+    else:
+        print("Invalid input. Please try again.")
+        get_user_input_welcome()
 
 
 def get_logged_in_user_input():
@@ -40,17 +41,17 @@ def get_logged_in_user_input():
 
 
 def handle_logged_in_user_input(user_input):
-        if user_input == "1":
-            print("You can browse our cars")
-            search_cars()
-        elif user_input == "2":
-            AddCar("cars.csv").cars_add()
-        elif user_input == "3":
-            print("Goodbye")
-            exit()
-        else:
-            print("Invalid input. Please try again.")
-        user_input = input("Enter Number: ")
+    if user_input == "1":
+        print("You can browse our cars")
+        SearchCar().search_cars()
+    elif user_input == "2":
+        AddCar("cars.csv").cars_add()
+    elif user_input == "3":
+        print("Goodbye")
+        exit()
+    else:
+        print("Invalid input. Please try again.")
+    user_input = input("Enter Number: ")
 
 
 get_user_input_welcome()
