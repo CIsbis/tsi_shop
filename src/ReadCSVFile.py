@@ -19,4 +19,4 @@ class ReadCSVFile:
         return file_data
 
     def get_last_lines(self, file_name, numer_of_lines):
-        return get_file_data(file_name)[-1 * numer_of_lines]
+        return self.get_file_data(file_name)[-1 * numer_of_lines]
