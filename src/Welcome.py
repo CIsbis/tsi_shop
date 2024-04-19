@@ -1,7 +1,7 @@
 from LogIn import LogIn
 from AddCar import AddCar
 from SignUp import SignUp
-from src.SerchCar import search_cars
+from SerchCar import search_cars
 
 
 def get_user_input_welcome():
