@@ -16,6 +16,8 @@ class LogIn:
         password = self.get_password(email_address)
         if password == "":
             print("You are not a user")
+            from Welcome import Welcome
+            Welcome().get_user_input_welcome()
         else:
             if input("Enter password: ") == password:
                 print("You are logged in")
