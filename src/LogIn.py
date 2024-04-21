@@ -1,8 +1,6 @@
 from CustomerLoad import CustomerLoad
 
-
 class LogIn:
-
     def get_password(self, email_address):
         customerLoad = CustomerLoad()
         customers = customerLoad.load_customers()
@@ -18,8 +16,9 @@ class LogIn:
         email_address = input("Enter your email address: ")
         password = self.get_password(email_address)
         if password == "":
-            print("You have not registered")
-            exit()
+            print("You are not a user")
+            from Welcome import Welcome
+            Welcome().get_user_input_welcome()
         else:
             if input("Enter password: ") == password:
                 print("You are logged in")
