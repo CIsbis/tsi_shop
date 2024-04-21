@@ -1,4 +1,17 @@
+Introduction 
+
+Our application is a car shop app which allows the user to buy and sell cars. first you create an account 
+or log in as an existing user,
+Once logged in the user can search for cars in our database using make/model/colour/year... filters 
+or the user can list a car to be put into our database using the same parameters. The welcome.py is the 
+applications UI this handles all the user input, calling the individual functions when prompted, our data is stored
+in 2 different databases, cars.csv and customer.csv these databases are accessed with the search and add functions and 
+login and signup functions.
+
+
+
 Retrospective
+
 During our retrospective for the first sprint, Group 3 used the sailboat analogy to examine our 
 progress and identify areas for improvement. 
 
