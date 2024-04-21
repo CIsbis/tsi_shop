@@ -2,7 +2,7 @@ import configInterface
 
 from typing import List
 
-class StubConfig(configInterface):
+class StubConfig():
     def get_configuration(self) -> List[str]:
         stubdata = [
             "email_address:test@mail.com",

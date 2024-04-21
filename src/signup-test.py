@@ -5,7 +5,7 @@ import ReadCSVFile
 
 
 
-def signUpStubbedTest():
+def TestSignUp(self):
     stub = SignUpStubConfig()
     stubbedData = stub.get_configuration(stub)
     
@@ -21,7 +21,7 @@ def signUpStubbedTest():
     reader = ReadCSVFile()
     dataFromFile = reader.get_file_data(reader, "customer.csv")
     
-    assertEqual(stubbedData, dataFromFile,"not eqaul")
+    self.assertEqual(stubbedData, dataFromFile,"not eqaul")
     
     
     
