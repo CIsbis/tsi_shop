@@ -1,6 +1,6 @@
+import csv
 from LogIn import LogIn
 from AddCar import AddCar
-import csv
 
 class SignUp:
     def __init__(self, csv_file):
