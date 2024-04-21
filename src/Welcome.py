@@ -1,6 +1,7 @@
 import csv
 from LogIn import LogIn
 from AddCar import AddCar
+from SearchCar import search_cars
 
 class SignUp:
     def __init__(self, csv_file):
@@ -58,7 +59,6 @@ class Welcome:
     def handle_logged_in_user_input(user_input):
         if user_input == "1":
             print("You can browse our cars")
-            from SearchCar import search_cars
             search_cars()
         elif user_input == "2":
             AddCar("cars.csv").cars_add()

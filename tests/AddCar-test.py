@@ -1,3 +1,7 @@
+# This class has a single static method cars_add_test(), which writes predefined car 
+# details to a CSV file. It uses hard-coded values for make, model, colour, etc., instead of user input.
+# The test has stubbing properties as it provides predefined variables 
+
 import csv
 
 make = "Vauxhall"
@@ -10,7 +14,6 @@ engine_size = "1364"
 fuel_type = "petrol"
 price = "4495"
 
-file = "test_cars.csv"
 class AddCarTest:
     def cars_add_test():
         print("Enter car details")
