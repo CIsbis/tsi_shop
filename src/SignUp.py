@@ -16,6 +16,7 @@ class SignUp:
         self.first_name = input("Enter your first name: ")
         self.last_name = input("Enter your last name: ")
         self.password = input("Enter password: ")
+        self.writeToFile(self.email_address,self.first_name, self.last_name, self.password)
 
         # Write the email and password to the CSV file
         
